@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="648" font-family="serif" font-size="12">
+<line x1="60.0" y1="40" x2="840.0" y2="40" stroke="#0F3D5E" stroke-width="2"/>
+<text x="133.7837837837838" y="30" text-anchor="middle" fill="#6B7280">1950</text>
+<text x="239.1891891891892" y="30" text-anchor="middle" fill="#6B7280">1960</text>
+<text x="344.5945945945946" y="30" text-anchor="middle" fill="#6B7280">1970</text>
+<text x="450.0" y="30" text-anchor="middle" fill="#6B7280">1980</text>
+<text x="555.4054054054054" y="30" text-anchor="middle" fill="#6B7280">1990</text>
+<text x="660.8108108108108" y="30" text-anchor="middle" fill="#6B7280">2000</text>
+<text x="766.2162162162163" y="30" text-anchor="middle" fill="#6B7280">2010</text>
+<circle cx="60.0" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="60.0" y1="44" x2="60.0" y2="58" stroke="#D1D5DB"/>
+<text x="60.0" y="70" text-anchor="start">1943-12  McCulloch and Pitts: a logical calculus of nervous activity [L-161]</text>
+<circle cx="133.8" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="133.8" y1="44" x2="133.8" y2="92" stroke="#D1D5DB"/>
+<text x="133.8" y="104" text-anchor="start">1950-10  Turing: Computing Machinery and Intelligence [L-162]</text>
+<circle cx="186.5" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="186.5" y1="44" x2="186.5" y2="126" stroke="#D1D5DB"/>
+<text x="186.5" y="138" text-anchor="start">1955-08-31  Dartmouth proposal (study planned for summer 1956) [L-160]</text>
+<circle cx="218.1" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="218.1" y1="44" x2="218.1" y2="160" stroke="#D1D5DB"/>
+<text x="218.1" y="172" text-anchor="start">1958-11  Rosenblatt: the perceptron [L-163]</text>
+<circle cx="302.4" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="302.4" y1="44" x2="302.4" y2="194" stroke="#D1D5DB"/>
+<text x="302.4" y="206" text-anchor="start">1966-01  Weizenbaum: ELIZA [L-172]</text>
+<circle cx="302.4" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="302.4" y1="44" x2="302.4" y2="228" stroke="#D1D5DB"/>
+<text x="302.4" y="240" text-anchor="start">1966-11  ALPAC report on machine translation [L-184]</text>
+<circle cx="334.1" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="334.1" y1="44" x2="334.1" y2="262" stroke="#D1D5DB"/>
+<text x="334.1" y="274" text-anchor="start">1969  Minsky and Papert: Perceptrons [L-164]</text>
+<circle cx="376.2" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="376.2" y1="44" x2="376.2" y2="296" stroke="#D1D5DB"/>
+<text x="376.2" y="308" text-anchor="start">1973-04  Lighthill: Artificial Intelligence: A General Survey [L-185]</text>
+<circle cx="450.0" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="450.0" y1="44" x2="450.0" y2="330" stroke="#D1D5DB"/>
+<text x="450.0" y="342" text-anchor="end">1980  Fukushima: the neocognitron [L-201]</text>
+<circle cx="471.1" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="471.1" y1="44" x2="471.1" y2="364" stroke="#D1D5DB"/>
+<text x="471.1" y="376" text-anchor="end">1982-09  McDermott: R1 rule-based configurer [L-188]</text>
+<circle cx="513.2" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="513.2" y1="44" x2="513.2" y2="398" stroke="#D1D5DB"/>
+<text x="513.2" y="410" text-anchor="end">1986-10  Rumelhart, Hinton and Williams: back-propagating errors [L-165]</text>
+<circle cx="544.9" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="544.9" y1="44" x2="544.9" y2="432" stroke="#D1D5DB"/>
+<text x="544.9" y="444" text-anchor="end">1989-12  LeCun and colleagues: backpropagation for zip codes [L-202]</text>
+<circle cx="608.1" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="608.1" y1="44" x2="608.1" y2="466" stroke="#D1D5DB"/>
+<text x="608.1" y="478" text-anchor="end">1995-09  Cortes and Vapnik: support-vector networks [L-203]</text>
+<circle cx="639.7" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="639.7" y1="44" x2="639.7" y2="500" stroke="#D1D5DB"/>
+<text x="639.7" y="512" text-anchor="end">1998-11  LeCun and colleagues: gradient-based learning for documents [L-166]</text>
+<circle cx="787.3" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="787.3" y1="44" x2="787.3" y2="534" stroke="#D1D5DB"/>
+<text x="787.3" y="546" text-anchor="end">2012  Krizhevsky, Sutskever and Hinton: deep CNN on ImageNet [L-167]</text>
+<circle cx="808.4" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="808.4" y1="44" x2="808.4" y2="568" stroke="#D1D5DB"/>
+<text x="808.4" y="580" text-anchor="end">2014-09  Bahdanau, Cho and Bengio: attention for translation [L-168]</text>
+<circle cx="840.0" cy="40" r="4" fill="#1D6FA5"/>
+<line x1="840.0" y1="44" x2="840.0" y2="602" stroke="#D1D5DB"/>
+<text x="840.0" y="614" text-anchor="end">2017-06  Vaswani and colleagues: the Transformer [L-169]</text>
+</svg>

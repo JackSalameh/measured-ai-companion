@@ -1,0 +1,10 @@
+id,doi,arxiv,isbn,year,title
+R1,,1706.03762,,2017,Attention is all you need
+R2,10.1145/1273445.1273458,,,2007,How to read a paper
+R3,,2005.11401,,2021,Retrieval-augmented generation for knowledge-intensive NLP tasks
+R4,10.1001-jama.1983.03330370053031,,,1983,"If nothing goes wrong, is everything all right?"
+R5,,2313.01798,,2023,Large language models cannot self-correct reasoning yet
+R6,,2310.01798,,2024,Language models can reliably correct their own reasoning
+R7,,,9780262039247,2018,Reinforcement learning: an introduction
+R8,,,,2024,Citation fidelity in autonomous research agents: a benchmark
+R9,,,9780262035613,2016,Deep learning

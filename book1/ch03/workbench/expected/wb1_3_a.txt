@@ -1,0 +1,32 @@
+WB1.3-a  Dataset inspector
+== tickets.csv: 618 rows, 6 columns
+  ticket_id      text      missing   0   distinct  618
+  created        date      missing   0   distinct  173   2026-01-01 to 2026-06-30
+  channel        category  missing   9   distinct    3   values chat, email, phone
+  tier           category  missing   0   distinct    3   values free, pro, team
+  text           text      missing   0   distinct  294
+  queue          category  missing   0   distinct    4   values billing, login, other, shipping
+  duplicate rows (all columns except ticket_id): 3
+== ledger.csv: 722 rows, 8 columns
+  entry_id       text      missing   0   distinct  361
+  date           date      missing   0   distinct  228   2026-01-01 to 2026-12-31   IMPOSSIBLE: 2026-02-30
+  account        integer   missing   0   distinct    9   min 1000   max 6400
+  account_name   category  missing   0   distinct    9
+  description    category  missing   6   distinct    8
+  debit          decimal   missing   0   distinct  343   min 0   max 10744.7
+  credit         decimal   missing   0   distinct  343   min 0   max 10744.7
+  currency       category  missing   0   distinct    1   values EUR
+  duplicate rows (all columns except entry_id): 4
+== signal_features.csv: 120 rows, 10 columns
+  record_id      text      missing   0   distinct  120
+  minute         integer   missing   0   distinct  120   min 0   max 119
+  vib_rms        decimal   missing   0   distinct  117   min 0.0716   max 1.0181
+  vib_peak       decimal   missing   0   distinct  120   min 0.1824   max 3.4103
+  vib_crest      decimal   missing   0   distinct  120   min 2.1848   max 3.8103
+  vib_kurtosis   decimal   missing   0   distinct  115   min 1.8406   max 2.9363
+  cur_rms        decimal   missing   0   distinct   37   min 7.07   max 7.0789
+  temp_c         decimal   missing   2   distinct   74   min 40.2   max 53.8
+  unit           category  missing   0   distinct    2   values g, m/s^2
+  label          category  missing   0   distinct    2   values fault, healthy
+  WARNING mixed units in one column: g, m/s^2
+  duplicate rows (all columns except record_id): 0

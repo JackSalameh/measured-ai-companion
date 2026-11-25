@@ -1,0 +1,4 @@
+task,calls_per_month,input_tokens,cacheable_input_tokens,output_tokens
+classify,30000,900,700,10
+reply,30000,1500,700,250
+summary,4,60000,0,1500

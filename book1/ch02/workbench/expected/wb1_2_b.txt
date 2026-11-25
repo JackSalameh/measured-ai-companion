@@ -1,0 +1,12 @@
+WB1.2-b  A perceptron in under 40 lines
+AND  learned in 6 passes          w = (2, 1), b = -2, correct 4/4
+OR   learned in 4 passes          w = (1, 1), b = 0, correct 4/4
+XOR  not learned after 100 passes w = (-1, 0), b = 1, correct 2/4
+
+Why XOR fails: the weights would have to satisfy all four conditions
+  (0,0) -> 0 :  b <= 0
+  (0,1) -> 1 :  w2 + b > 0
+  (1,0) -> 1 :  w1 + b > 0
+  (1,1) -> 0 :  w1 + w2 + b <= 0
+Adding the middle two gives w1 + w2 + 2b > 0, so w1 + w2 + b > -b >= 0,
+which contradicts the last line. No straight line separates the 1s from the 0s.

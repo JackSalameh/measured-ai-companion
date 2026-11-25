@@ -1,0 +1,9 @@
+WB1.16-b  decision log checker: 5 decisions
+  line 4  D-003  no owner
+  line 5  D-004  fewer than two options considered
+  line 5  D-004  no evidence
+  line 5  D-004  review date is not after the decision
+  line 6  D-005  date '2026-04-31' is not a real date
+  line 6  D-005  status 'maybe' is not one of accepted, proposed, rejected, superseded
+  line 6  D-005  supersedes D-009, which is not in the log
+7 problems

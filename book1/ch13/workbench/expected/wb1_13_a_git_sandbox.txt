@@ -1,0 +1,19 @@
+WB1.13-a  Git in a sandbox: 5 commits, 2 branches, 1 merge
+history (newest first):
+  *   b663ae9 2026-01-09 Merge branch password-rule
+  |\
+  | * 998e3ee 2026-01-07 Route password questions to accounts
+  * | ecb1231 2026-01-08 Add README
+  |/
+  * f9eac59 2026-01-06 Add a test for the rule
+  * a5a7bef 2026-01-05 Add first triage rule
+diff of the branch commit:
+  commit 998e3ee Route password questions to accounts
+
+  --- a/triage.py
+  +++ b/triage.py
+  @@ -3,2 +3,4 @@ def team(text):
+           return "billing"
+  +    if "password" in text.lower():
+  +        return "accounts"
+       return "general"

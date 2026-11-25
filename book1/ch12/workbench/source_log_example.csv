@@ -1,0 +1,8 @@
+id,claim,source,checked,status,used_in
+S-001,Attention is computed as softmax(QK^T/sqrt(d_k))V,Vaswani et al. 2017 section 3.2.1,2026-11-20,V,notes/transformers.md
+S-002,Most AI search answers in one 2025 test cited the wrong article,Tow Center CJR 6 Mar 2025,2026-11-21,V,notes/search.md
+S-003,Deep-research tools always read every source they cite,,2026-11-21,V,notes/tools.md
+S-004,Keshav's first pass takes five to ten minutes,Keshav 2007 section 2.1,2026-11-31,V,notes/reading.md
+S-005,A blog says chain of thought always helps,blog post (no date),2026-11-22,X,notes/prompting.md
+S-005,The rule of three gives about 3/n after zero events,Hanley and Lippman-Hand 1983,2026-11-22,V-sec,
+S-007,arXiv identifiers have five digits since January 2015,arXiv help page,2026-11-22,maybe,notes/ids.md

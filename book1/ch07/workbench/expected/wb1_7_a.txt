@@ -1,0 +1,9 @@
+WB1.7-a  Aliasing lab: a 120 Hz tone sampled for 1 s
+  sampling rate   Nyquist frequency   predicted   measured peak   amplitude
+      1000 Hz          500.0 Hz       120.0 Hz      120.0 Hz       1.000
+       300 Hz          150.0 Hz       120.0 Hz      120.0 Hz       1.000
+       240 Hz          120.0 Hz       120.0 Hz      120.0 Hz       0.296   <- exactly 2x the tone: amplitude depends on phase
+       200 Hz          100.0 Hz        80.0 Hz       80.0 Hz       1.000   <- aliased
+       150 Hz           75.0 Hz        30.0 Hz       30.0 Hz       1.000   <- aliased
+       100 Hz           50.0 Hz        20.0 Hz       20.0 Hz       1.000   <- aliased
+  predictions match measurements: yes

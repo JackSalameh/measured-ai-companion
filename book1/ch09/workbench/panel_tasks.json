@@ -1,0 +1,36 @@
+{
+  "panel": "Provider Panel #1",
+  "settings": {"temperature": 0, "max_tokens": 300},
+  "tasks": [
+    {
+      "id": "T1-extract",
+      "kind": "extraction",
+      "prompt": "Extract the invoice number, the invoice date (YYYY-MM-DD) and the total amount from the text below. Answer with JSON only, with the keys number, date and total.\n\nText: Invoice INV-2041, issued on 14 March 2026 to Lumen Bikes. Subtotal 1,250.00 EUR, VAT 20% 250.00 EUR, total due 1,500.00 EUR.",
+      "check": {"type": "json_fields", "expected": {"number": "INV-2041", "date": "2026-03-14", "total": 1500.0}}
+    },
+    {
+      "id": "T2-classify",
+      "kind": "classification",
+      "prompt": "Classify the support ticket into exactly one of these categories: billing, delivery, account, product, other. Answer with the category word only.\n\nTicket: I was charged twice for the same order last week and I can only see one parcel.",
+      "check": {"type": "one_of", "expected": "billing"}
+    },
+    {
+      "id": "T3-arithmetic",
+      "kind": "arithmetic",
+      "prompt": "A net price is 1,234.56 EUR and VAT is 17%. What is the VAT amount, rounded to the cent? Answer with the number only.",
+      "check": {"type": "number", "expected": 209.88, "tolerance": 0.001}
+    },
+    {
+      "id": "T4-translate",
+      "kind": "translation",
+      "prompt": "Translate into French, keeping a polite business tone: \"We are sorry for the delay. Your refund was sent today and should reach your account within five working days.\"",
+      "check": {"type": "human", "rubric": "Meaning complete (apology, refund sent today, five working days); polite register (vous); no added content."}
+    },
+    {
+      "id": "T5-summarize",
+      "kind": "summary",
+      "prompt": "Summarize this ticket in at most 25 words for an agent who has not read it.\n\nTicket: Hello, I ordered a size M jacket on 2 March and received a size L. I sent it back on 9 March with the prepaid label, tracking number RT55821. The return shows as delivered on 12 March but I have had no refund and no reply to my two emails. Please help.",
+      "check": {"type": "max_words", "limit": 25, "rubric": "Mentions wrong size received, return delivered 12 March, no refund yet."}
+    }
+  ]
+}

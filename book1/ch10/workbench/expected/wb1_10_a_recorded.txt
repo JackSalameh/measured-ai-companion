@@ -1,0 +1,19 @@
+WB1.10-a  recorded run: claude-opus-5-5, 23 Nov 2026
+         (agent session, not the API; see note in the file)
+prompt v1: correct 0/98, invalid answers 98
+  true \ answer  billing    login shipping    other  invalid
+  billing              0        0        0        0       50
+  login                0        0        0        0       18
+  shipping             0        0        0        0       26
+  other                0        0        0        0        4
+prompt v2: correct 98/98, invalid answers 0
+  true \ answer  billing    login shipping    other  invalid
+  billing             50        0        0        0        0
+  login                0       18        0        0        0
+  shipping             0        0       26        0        0
+  other                0        0        0        4        0
+v1 answers use 7 department names, for example:
+  Billing
+  Order Fulfillment (Shipping & Delivery)
+  Sales
+v1 answer length: 12 to 23 words

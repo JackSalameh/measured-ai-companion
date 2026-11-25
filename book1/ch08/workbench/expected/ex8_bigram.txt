@@ -1,0 +1,11 @@
+Bigram model trained on 618 ticket texts; vocabulary 132 words
+  P(next | "my"): last 0.28, account 0.24, phone 0.20, parcel 0.19, data 0.09
+  How long does delivery address for January?                    NEW sentence
+  Order <n> is missing an item                                   in the tickets
+  How long does delivery to order <n>                            NEW sentence
+  Sign-in page shows error <n>                                   in the tickets
+  Do you offer training for a store?                             NEW sentence
+  Please refund order <n>?                                       in the tickets
+  The password reset email never arrives                         in the tickets
+  The price on my parcel <n>                                     NEW sentence
+  4 of 8 generated sentences appear in no ticket

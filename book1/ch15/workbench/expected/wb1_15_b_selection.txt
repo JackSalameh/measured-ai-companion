@@ -1,0 +1,6 @@
+WB1.15-b  selection rates: 400 applicants (A 203, B 197), top 30% chosen
+  mean skill A 49.8, B 49.5; career break A 8.9%, B 35.0%
+model 1, skill and career break: weights skill +0.98, break -12.10
+  selected A 68/203 = 0.335, B 52/197 = 0.264, ratio B/A 0.788
+model 2, skill only: weights skill +0.95
+  selected A 58/203 = 0.286, B 62/197 = 0.315, ratio B/A 1.102

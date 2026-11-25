@@ -1,0 +1,7 @@
+vocabulary sizes: SentencePiece v1 32,000, Tekken 131,072
+text      chars words  SP v1  Tekken  ratio
+English      64    13     18      17   1.06
+French       72    14     24      23   1.04
+Numbers      50     8     38      36   1.06
+Code         55     8     21      17   1.24
+all         241    43    101      93   1.09

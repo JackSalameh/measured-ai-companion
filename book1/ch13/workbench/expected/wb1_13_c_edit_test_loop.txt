@@ -1,0 +1,12 @@
+WB1.13-c  edit-test loop (replay demo-agent), budget 5, 8 tests
+  round 1  edit parse_amount.py (inside the project): allowed
+           'run tests': allowed
+           6 of 8 pass; failing: brackets_negative, currency_code
+  round 2  edit parse_amount.py (inside the project): allowed
+           'pip install price-parser': ask the reader -> no
+           'run tests': allowed
+           7 of 8 pass; failing: currency_code
+  round 3  edit parse_amount.py (inside the project): allowed
+           'run tests': allowed
+           8 of 8 pass
+done after 3 rounds: the tests pass

@@ -1,0 +1,619 @@
+ticket_id,created,channel,tier,text,queue
+T0001,2026-01-01,chat,team,Where is your privacy policy?,other
+T0002,2026-01-01,email,pro,The discount code did not apply to order 8892,billing
+T0003,2026-01-01,chat,free,The price on my last invoice is wrong,billing
+T0004,2026-01-01,phone,pro,Order 5022 is missing an item,shipping
+T0005,2026-01-01,chat,free,The password reset email never arrives,login
+T0006,2026-01-02,phone,pro,My card payment for order 2614 failed,billing
+T0007,2026-01-02,email,free,The verification code is not accepted,login
+T0008,2026-01-02,phone,free,Where is parcel 4586?,shipping
+T0009,2026-01-02,chat,pro,Can I get a receipt for January?,billing
+T0010,2026-01-02,chat,pro,Please refund order 9852,billing
+T0011,2026-01-02,chat,pro,The app logs me out every few minutes,login
+T0012,2026-01-02,email,pro,The package arrived damaged,shipping
+T0013,2026-01-03,email,pro,The app logs me out every few minutes,login
+T0014,2026-01-03,chat,free,Please refund order 4102,billing
+T0015,2026-01-03,email,free,Where is your privacy policy?,other
+T0016,2026-01-03,email,free,The price on my last invoice is wrong,billing
+T0017,2026-01-04,chat,free,The price on my last invoice is wrong,billing
+T0018,2026-01-04,email,free,Can I get a receipt for January?,billing
+T0019,2026-01-04,phone,pro,I cannot sign in since January,login
+T0020,2026-01-04,chat,free,The price on my last invoice is wrong,billing
+T0021,2026-01-05,email,free,Where is parcel 8282?,shipping
+T0022,2026-01-05,email,pro,My card payment for order 6997 failed,billing
+T0023,2026-01-05,email,free,Sign-in page shows error 6881,login
+T0024,2026-01-05,chat,free,The discount code did not apply to order 3247,billing
+T0025,2026-01-05,email,free,The price on my last invoice is wrong,billing
+T0026,2026-01-06,email,team,Sign-in page shows error 3913,login
+T0027,2026-01-06,email,pro,Sign-in page shows error 8423,login
+T0028,2026-01-06,phone,free,The discount code did not apply to order 3961,billing
+T0029,2026-01-07,email,free,Please refund order 7758,billing
+T0030,2026-01-07,chat,pro,My account is locked,login
+T0031,2026-01-07,email,free,Where is your privacy policy?,other
+T0032,2026-01-08,phone,pro,The package arrived damaged,shipping
+T0033,2026-01-09,email,free,How long does delivery to Portugal take?,shipping
+T0034,2026-01-09,email,pro,Please change the delivery address for order 7118,shipping
+T0035,2026-01-09,email,pro,I was charged twice for invoice 8031,billing
+T0036,2026-01-11,email,free,Please refund order 1775,billing
+T0037,2026-01-11,chat,free,Sign-in page shows error 6356,login
+T0038,2026-01-11,,free,The password reset email never arrives,login
+T0039,2026-01-11,chat,pro,How long does delivery to Chile take?,shipping
+T0040,2026-01-11,email,free,Do you have a plan for a team of 15?,other
+T0041,2026-01-12,phone,free,Please refund order 1210,billing
+T0042,2026-01-12,email,pro,Two-factor login fails on my phone,login
+T0043,2026-01-13,chat,team,Can I collect order 3465 from a store?,shipping
+T0044,2026-01-14,email,free,I cannot sign in since January,login
+T0045,2026-01-14,chat,free,Please change the delivery address for order 6751,shipping
+T0046,2026-01-14,email,free,Do you have a plan for a team of 19?,other
+T0047,2026-01-14,chat,free,Two-factor login fails on my phone,login
+T0048,2026-01-15,email,free,I was charged twice for invoice 3828,billing
+T0049,2026-01-15,chat,pro,"Thank you, the problem is solved",other
+T0050,2026-01-16,chat,pro,The courier left my parcel outside,shipping
+T0051,2026-01-16,email,free,The courier left my parcel outside,shipping
+T0052,2026-01-16,chat,pro,Tracking for order 4598 has not moved,shipping
+T0053,2026-01-16,email,free,I forgot the email address I used to log in,login
+T0054,2026-01-17,email,pro,Where is your privacy policy?,other
+T0055,2026-01-17,email,pro,Do you offer training for new users?,other
+T0056,2026-01-17,email,free,How long does delivery to Japan take?,shipping
+T0057,2026-01-17,chat,free,Please change the delivery address for order 4548,shipping
+T0058,2026-01-17,phone,free,I cannot sign in since January,login
+T0059,2026-01-18,chat,free,Please change the delivery address for order 7197,shipping
+T0060,2026-01-18,email,free,Please delete my data,other
+T0061,2026-01-19,email,free,Two-factor login fails on my phone,login
+T0062,2026-01-19,phone,free,My account is locked,login
+T0063,2026-01-19,email,free,Please refund order 2907,billing
+T0064,2026-01-20,chat,free,Sign-in page shows error 9566,login
+T0065,2026-01-21,chat,team,Why was I billed in January?,billing
+T0066,2026-01-21,email,free,Where is parcel 4735?,shipping
+T0067,2026-01-21,email,pro,Tracking for order 7097 has not moved,shipping
+T0068,2026-01-21,email,free,I was charged twice for invoice 2110,billing
+T0069,2026-01-21,email,free,The discount code did not apply to order 4219,billing
+T0070,2026-01-21,email,free,I forgot the email address I used to log in,login
+T0071,2026-01-22,chat,pro,The discount code did not apply to order 6861,billing
+T0072,2026-01-22,email,free,Can I get a receipt for January?,billing
+T0073,2026-01-22,chat,free,Order 9223 is missing an item,shipping
+T0074,2026-01-22,chat,free,My card payment for order 6848 failed,billing
+T0075,2026-01-23,email,pro,Why was I billed in January?,billing
+T0076,2026-01-23,chat,free,The discount code did not apply to order 4458,billing
+T0077,2026-01-23,email,pro,Two-factor login fails on my phone,login
+T0078,2026-01-24,email,pro,Tracking for order 4029 has not moved,shipping
+T0079,2026-01-24,email,free,Can I get a receipt for January?,billing
+T0080,2026-01-24,chat,pro,Tracking for order 5024 has not moved,shipping
+T0081,2026-01-24,chat,team,Why was I billed in January?,billing
+T0082,2026-01-25,chat,free,Please refund order 1607,billing
+T0083,2026-01-25,email,free,The app logs me out every few minutes,login
+T0084,2026-01-26,chat,free,The verification code is not accepted,login
+T0085,2026-01-26,email,pro,I cannot sign in since January,login
+T0086,2026-01-27,chat,team,I forgot the email address I used to log in,login
+T0087,2026-01-27,chat,free,The app logs me out every few minutes,login
+T0088,2026-01-28,phone,free,Is there a tablet version of the app?,other
+T0089,2026-01-28,email,free,Order 2391 is missing an item,shipping
+T0090,2026-01-28,chat,free,I cannot sign in since January,login
+T0091,2026-01-28,chat,free,I was charged twice for invoice 5388,billing
+T0092,2026-01-29,email,free,Do you offer training for new users?,other
+T0093,2026-01-29,email,pro,The website is slow today,other
+T0094,2026-01-29,chat,free,Two-factor login fails on my phone,login
+T0095,2026-01-29,email,pro,Sign-in page shows error 9054,login
+T0096,2026-01-29,chat,pro,Can I collect order 3982 from a store?,shipping
+T0097,2026-01-30,phone,free,Where is your privacy policy?,other
+T0098,2026-01-30,chat,team,The discount code did not apply to order 7235,billing
+T0099,2026-01-30,chat,team,Please refund order 7421,billing
+T0100,2026-01-30,email,free,Can I collect order 7836 from a store?,shipping
+T0101,2026-01-31,chat,pro,Can I collect order 5370 from a store?,shipping
+T0102,2026-01-31,chat,free,Please refund order 2880,billing
+T0103,2026-02-01,chat,free,My card payment for order 8026 failed,billing
+T0104,2026-02-01,phone,free,"Thank you, the problem is solved",other
+T0105,2026-02-01,email,free,Can I get a receipt for January?,billing
+T0106,2026-02-01,chat,free,Why was I billed in January?,billing
+T0107,2026-02-01,chat,free,"Thank you, the problem is solved",other
+T0108,2026-02-01,chat,free,My card payment for order 5260 failed,billing
+T0109,2026-02-01,chat,free,Order 7644 is missing an item,shipping
+T0110,2026-02-02,email,pro,The app logs me out every few minutes,login
+T0111,2026-02-02,email,free,Please delete my data,other
+T0112,2026-02-02,email,free,My card payment for order 4182 failed,billing
+T0113,2026-02-04,email,pro,Please refund order 3838,billing
+T0114,2026-02-04,email,team,My card payment for order 6225 failed,billing
+T0115,2026-02-04,email,team,Where is parcel 5010?,shipping
+T0116,2026-02-04,chat,pro,The discount code did not apply to order 7457,billing
+T0117,2026-02-04,phone,free,Sign-in page shows error 1764,login
+T0118,2026-02-04,email,free,Can I collect order 7597 from a store?,shipping
+T0119,2026-02-04,phone,free,"Thank you, the problem is solved",other
+T0120,2026-02-05,email,free,The package arrived damaged,shipping
+T0121,2026-02-05,email,free,How long does delivery to Portugal take?,shipping
+T0122,2026-02-05,chat,free,My account is locked,login
+T0123,2026-02-05,chat,team,Can I collect order 3221 from a store?,shipping
+T0124,2026-02-05,chat,pro,Why was I billed in January?,billing
+T0125,2026-02-05,chat,free,The app logs me out every few minutes,login
+T0126,2026-02-06,email,team,The website is slow today,other
+T0127,2026-02-06,email,team,The password reset email never arrives,login
+T0128,2026-02-06,email,team,The courier left my parcel outside,shipping
+T0129,2026-02-07,email,free,The password reset email never arrives,login
+T0130,2026-02-07,,free,Order 6773 is missing an item,shipping
+T0131,2026-02-07,email,team,My card payment for order 3636 failed,billing
+T0132,2026-02-07,email,pro,The discount code did not apply to order 7449,billing
+T0133,2026-02-07,email,team,Where is parcel 2438?,shipping
+T0134,2026-02-08,email,free,The app logs me out every few minutes,login
+T0135,2026-02-08,phone,pro,My card payment for order 5730 failed,billing
+T0136,2026-02-08,chat,free,My account is locked,login
+T0137,2026-02-09,email,free,The package arrived damaged,shipping
+T0138,2026-02-09,email,free,Order 2171 is missing an item,shipping
+T0139,2026-02-09,chat,free,"Thank you, the problem is solved",other
+T0140,2026-02-10,chat,team,Tracking for order 8319 has not moved,shipping
+T0141,2026-02-10,email,pro,Where is parcel 3035?,shipping
+T0142,2026-02-10,email,free,I cannot sign in since February,login
+T0143,2026-02-11,phone,free,My card payment for order 8217 failed,billing
+T0144,2026-02-11,email,pro,The website is slow today,other
+T0145,2026-02-11,email,pro,The price on my last invoice is wrong,billing
+T0146,2026-02-11,chat,free,My card payment for order 7721 failed,billing
+T0147,2026-02-11,email,free,My card payment for order 7069 failed,billing
+T0148,2026-02-12,phone,free,Please delete my data,other
+T0149,2026-02-12,chat,free,Please refund order 9690,billing
+T0150,2026-02-12,chat,free,Please refund order 3050,billing
+T0151,2026-02-12,email,free,Two-factor login fails on my phone,login
+T0152,2026-02-12,email,team,Is there a tablet version of the app?,other
+T0153,2026-02-12,email,free,Do you have a plan for a team of 21?,other
+T0154,2026-02-12,email,free,The password reset email never arrives,login
+T0155,2026-02-13,chat,free,Can I collect order 8465 from a store?,shipping
+T0156,2026-02-13,email,pro,The courier left my parcel outside,shipping
+T0157,2026-02-13,email,free,Two-factor login fails on my phone,login
+T0158,2026-02-13,phone,free,The app logs me out every few minutes,login
+T0159,2026-02-14,email,pro,The verification code is not accepted,login
+T0160,2026-02-14,phone,free,Do you have a plan for a team of 20?,other
+T0161,2026-02-14,chat,free,Can I collect order 7029 from a store?,shipping
+T0162,2026-02-14,chat,pro,Sign-in page shows error 6126,login
+T0163,2026-02-14,chat,pro,The price on my last invoice is wrong,billing
+T0164,2026-02-14,email,pro,The courier left my parcel outside,shipping
+T0165,2026-02-15,email,free,Please change the delivery address for order 1631,shipping
+T0166,2026-02-15,email,free,Do you offer training for new users?,other
+T0167,2026-02-15,email,pro,The discount code did not apply to order 2811,billing
+T0168,2026-02-16,email,team,The app logs me out every few minutes,login
+T0169,2026-02-16,phone,pro,The courier left my parcel outside,shipping
+T0170,2026-02-16,chat,pro,The website is slow today,other
+T0171,2026-02-16,chat,free,Can I collect order 3126 from a store?,shipping
+T0172,2026-02-17,email,free,I forgot the email address I used to log in,login
+T0173,2026-02-17,chat,free,Please change the billing address on my account,billing
+T0174,2026-02-17,chat,free,The password reset email never arrives,login
+T0175,2026-02-18,phone,free,The package arrived damaged,shipping
+T0176,2026-02-18,email,free,Two-factor login fails on my phone,login
+T0177,2026-02-18,email,pro,Where is your privacy policy?,other
+T0178,2026-02-19,chat,free,Please refund order 8353,billing
+T0179,2026-02-19,chat,pro,The verification code is not accepted,login
+T0180,2026-02-19,chat,free,The discount code did not apply to order 9454,billing
+T0181,2026-02-20,phone,free,Two-factor login fails on my phone,login
+T0182,2026-02-20,phone,free,I cannot sign in since February,login
+T0183,2026-02-20,phone,team,I forgot the email address I used to log in,login
+T0184,2026-02-20,phone,free,Please change the delivery address for order 6911,shipping
+T0185,2026-02-20,email,free,Why was I billed in February?,billing
+T0186,2026-02-20,email,team,Please change the delivery address for order 7612,shipping
+T0187,2026-02-20,email,free,The app logs me out every few minutes,login
+T0188,2026-02-20,phone,pro,I cannot sign in since January,login
+T0189,2026-02-21,email,free,The price on my last invoice is wrong,billing
+T0190,2026-02-22,phone,pro,Where is your privacy policy?,other
+T0191,2026-02-22,chat,free,The discount code did not apply to order 9092,billing
+T0192,2026-02-22,email,pro,The website is slow today,other
+T0193,2026-02-23,phone,team,The password reset email never arrives,login
+T0194,2026-02-24,chat,free,The discount code did not apply to order 2707,billing
+T0195,2026-02-24,chat,team,The discount code did not apply to order 9089,billing
+T0196,2026-02-24,email,pro,The verification code is not accepted,login
+T0197,2026-02-24,email,team,Is there a tablet version of the app?,other
+T0198,2026-02-25,email,free,Is there a tablet version of the app?,other
+T0199,2026-02-25,chat,pro,My card payment for order 7134 failed,billing
+T0200,2026-02-26,chat,free,The password reset email never arrives,login
+T0201,2026-02-26,chat,free,Please delete my data,other
+T0202,2026-02-26,email,free,Can I add a colleague to my account?,other
+T0203,2026-02-26,email,pro,The package arrived damaged,shipping
+T0204,2026-02-26,phone,free,I cannot sign in since January,login
+T0205,2026-02-26,chat,free,Can I collect order 3555 from a store?,shipping
+T0206,2026-02-26,email,free,Why was I billed in January?,billing
+T0207,2026-02-26,email,free,How long does delivery to Portugal take?,shipping
+T0208,2026-02-26,phone,pro,Where is your privacy policy?,other
+T0209,2026-02-26,email,pro,The website is slow today,other
+T0210,2026-02-27,phone,team,Where is your privacy policy?,other
+T0211,2026-02-27,email,free,I forgot the email address I used to log in,login
+T0212,2026-02-28,email,free,Is there a tablet version of the app?,other
+T0213,2026-02-28,email,pro,The package arrived damaged,shipping
+T0214,2026-02-28,email,pro,My card payment for order 9684 failed,billing
+T0215,2026-02-28,email,pro,Tracking for order 9774 has not moved,shipping
+T0216,2026-02-28,chat,pro,The courier left my parcel outside,shipping
+T0217,2026-03-01,phone,pro,Do you have a plan for a team of 13?,other
+T0218,2026-03-01,email,free,The verification code is not accepted,login
+T0219,2026-03-02,chat,free,The verification code is not accepted,login
+T0220,2026-03-02,chat,free,Order 6498 is missing an item,shipping
+T0221,2026-03-03,chat,free,Can I collect order 6026 from a store?,shipping
+T0222,2026-03-03,email,pro,The discount code did not apply to order 7466,billing
+T0223,2026-03-04,email,free,Do you have a plan for a team of 13?,other
+T0224,2026-03-04,phone,free,I cannot sign in since January,login
+T0225,2026-03-04,phone,pro,I forgot the email address I used to log in,login
+T0226,2026-03-05,chat,free,I was charged twice for invoice 1056,billing
+T0227,2026-03-05,chat,free,The password reset email never arrives,login
+T0228,2026-03-05,email,free,Why was I billed in January?,billing
+T0229,2026-03-05,email,pro,Can I add a colleague to my account?,other
+T0230,2026-03-05,phone,pro,The courier left my parcel outside,shipping
+T0231,2026-03-05,email,free,I was charged twice for invoice 5059,billing
+T0232,2026-03-05,,free,I cannot sign in since January,login
+T0233,2026-03-05,phone,pro,Do you have a plan for a team of 13?,other
+T0234,2026-03-07,email,pro,The app logs me out every few minutes,login
+T0235,2026-03-07,email,free,Please change the delivery address for order 3250,shipping
+T0236,2026-03-07,chat,free,Order 2645 is missing an item,shipping
+T0237,2026-03-07,email,free,Do you have a plan for a team of 19?,other
+T0238,2026-03-07,chat,pro,Is there a tablet version of the app?,other
+T0239,2026-03-08,chat,free,I cannot sign in since February,login
+T0240,2026-03-08,email,free,My card payment for order 2010 failed,billing
+T0241,2026-03-09,chat,free,I cannot sign in since January,login
+T0242,2026-03-10,phone,team,Can I collect order 6970 from a store?,shipping
+T0243,2026-03-10,chat,free,I forgot the email address I used to log in,login
+T0244,2026-03-10,email,pro,I forgot the email address I used to log in,login
+T0245,2026-03-11,email,team,I was charged twice for invoice 8063,billing
+T0246,2026-03-11,chat,pro,My card payment for order 4437 failed,billing
+T0247,2026-03-11,email,free,Is there a tablet version of the app?,other
+T0248,2026-03-11,email,pro,Why was I billed in March?,billing
+T0249,2026-03-12,email,free,The app logs me out every few minutes,login
+T0250,2026-03-12,email,free,Please change the billing address on my account,billing
+T0251,2026-03-13,email,free,Where is your privacy policy?,other
+T0252,2026-03-13,,pro,Can I get a receipt for January?,billing
+T0253,2026-03-13,email,pro,I forgot the email address I used to log in,login
+T0254,2026-03-13,chat,pro,Can I get a receipt for January?,billing
+T0255,2026-03-14,email,free,Order 3084 is missing an item,shipping
+T0256,2026-03-14,phone,team,Why was I billed in March?,billing
+T0257,2026-03-14,email,pro,Sign-in page shows error 9656,login
+T0258,2026-03-14,chat,pro,Two-factor login fails on my phone,login
+T0259,2026-03-15,email,free,The discount code did not apply to order 8886,billing
+T0260,2026-03-15,chat,pro,Please change the billing address on my account,billing
+T0261,2026-03-15,,free,The package arrived damaged,shipping
+T0262,2026-03-15,phone,pro,Can I collect order 8446 from a store?,shipping
+T0263,2026-03-15,email,free,Do you offer training for new users?,other
+T0264,2026-03-16,chat,free,My card payment for order 7483 failed,billing
+T0265,2026-03-16,phone,free,My card payment for order 5134 failed,billing
+T0266,2026-03-17,email,free,Order 2693 is missing an item,shipping
+T0267,2026-03-18,email,pro,Order 2365 is missing an item,shipping
+T0268,2026-03-18,email,team,Please change the billing address on my account,billing
+T0269,2026-03-18,chat,pro,The package arrived damaged,shipping
+T0270,2026-03-19,email,free,Do you have a plan for a team of 4?,other
+T0271,2026-03-20,email,pro,The package arrived damaged,shipping
+T0272,2026-03-20,email,free,I was charged twice for invoice 2425,billing
+T0273,2026-03-20,chat,free,How long does delivery to Japan take?,shipping
+T0274,2026-03-20,email,pro,I cannot sign in since January,login
+T0275,2026-03-21,email,free,The discount code did not apply to order 4369,billing
+T0276,2026-03-21,email,pro,The verification code is not accepted,login
+T0277,2026-03-22,email,team,Where is parcel 2908?,shipping
+T0278,2026-03-22,,free,Why was I billed in January?,billing
+T0279,2026-03-22,chat,free,I forgot the email address I used to log in,login
+T0280,2026-03-22,chat,pro,My card payment for order 6596 failed,billing
+T0281,2026-03-22,email,pro,My account is locked,login
+T0282,2026-03-23,email,pro,I was charged twice for invoice 8934,billing
+T0283,2026-03-23,email,free,Please change the billing address on my account,billing
+T0284,2026-03-23,email,free,Please change the billing address on my account,billing
+T0285,2026-03-23,email,free,Where is parcel 2064?,shipping
+T0286,2026-03-23,email,pro,I cannot sign in since January,login
+T0287,2026-03-24,chat,pro,I was charged twice for invoice 1254,billing
+T0288,2026-03-24,phone,free,Order 7945 is missing an item,shipping
+T0289,2026-03-24,email,free,The discount code did not apply to order 1519,billing
+T0290,2026-03-24,email,team,Please change the delivery address for order 2699,shipping
+T0291,2026-03-24,email,free,Tracking for order 2792 has not moved,shipping
+T0292,2026-03-24,email,free,I forgot the email address I used to log in,login
+T0293,2026-03-24,email,team,The password reset email never arrives,login
+T0294,2026-03-24,email,pro,The password reset email never arrives,login
+T0295,2026-03-24,email,free,How long does delivery to Japan take?,shipping
+T0296,2026-03-25,email,team,"Thank you, the problem is solved",other
+T0297,2026-03-26,email,free,Tracking for order 8849 has not moved,shipping
+T0298,2026-03-27,chat,pro,The courier left my parcel outside,shipping
+T0299,2026-03-27,email,free,Can I get a receipt for January?,billing
+T0300,2026-03-27,email,free,Please refund order 7700,billing
+T0301,2026-03-27,email,free,I forgot the email address I used to log in,login
+T0302,2026-03-27,email,free,My account is locked,login
+T0303,2026-03-28,phone,free,The package arrived damaged,shipping
+T0304,2026-03-28,email,free,I was charged twice for invoice 8774,billing
+T0305,2026-03-28,email,free,Please delete my data,other
+T0306,2026-03-29,email,pro,The discount code did not apply to order 7109,billing
+T0307,2026-03-29,chat,free,Please change the billing address on my account,billing
+T0308,2026-03-30,email,team,Why was I billed in February?,billing
+T0309,2026-03-30,email,team,The package arrived damaged,shipping
+T0310,2026-03-30,email,free,Why was I billed in March?,billing
+T0311,2026-03-30,chat,pro,Please change the billing address on my account,billing
+T0312,2026-03-30,email,free,Please refund order 1119,billing
+T0313,2026-03-31,email,pro,The courier left my parcel outside,shipping
+T0314,2026-03-31,email,free,Can I collect order 5805 from a store?,shipping
+T0315,2026-03-31,phone,free,I was charged twice for invoice 8744,billing
+T0316,2026-03-31,email,pro,Can I get a receipt for March?,billing
+T0317,2026-03-31,phone,free,Do you have a plan for a team of 5?,other
+T0318,2026-04-03,chat,free,Order 7109 is missing an item,shipping
+T0319,2026-04-03,chat,free,Can I get a receipt for April?,billing
+T0320,2026-04-04,chat,pro,Where is parcel 2556?,shipping
+T0321,2026-04-06,chat,free,The price on my last invoice is wrong,billing
+T0322,2026-04-06,email,pro,My card payment for order 7759 failed,billing
+T0323,2026-04-07,email,pro,Please change the billing address on my account,billing
+T0324,2026-04-07,email,team,"Thank you, the problem is solved",other
+T0325,2026-04-07,email,pro,The package arrived damaged,shipping
+T0326,2026-04-08,chat,free,Please refund order 9469,billing
+T0327,2026-04-08,chat,free,Please refund order 8831,billing
+T0328,2026-04-08,email,free,I forgot the email address I used to log in,login
+T0329,2026-04-09,chat,team,Where is parcel 4690?,shipping
+T0330,2026-04-09,email,pro,Where is your privacy policy?,other
+T0331,2026-04-09,chat,pro,Please change the delivery address for order 7545,shipping
+T0332,2026-04-09,chat,free,Why was I billed in March?,billing
+T0333,2026-04-10,phone,free,Sign-in page shows error 4464,login
+T0334,2026-04-10,chat,free,Where is your privacy policy?,other
+T0335,2026-04-10,email,team,The verification code is not accepted,login
+T0336,2026-04-10,,free,The price on my last invoice is wrong,billing
+T0337,2026-04-10,email,free,Please refund order 9528,billing
+T0338,2026-04-10,chat,pro,Please refund order 1809,billing
+T0339,2026-04-10,phone,pro,"Thank you, the problem is solved",other
+T0340,2026-04-10,email,free,Tracking for order 6531 has not moved,shipping
+T0341,2026-04-11,chat,free,I was charged twice for invoice 5075,billing
+T0342,2026-04-11,email,pro,Can I get a receipt for April?,billing
+T0343,2026-04-12,chat,pro,Do you have a plan for a team of 6?,other
+T0344,2026-04-12,chat,team,My card payment for order 3697 failed,billing
+T0345,2026-04-12,chat,free,Can I collect order 3617 from a store?,shipping
+T0346,2026-04-12,email,free,I was charged twice for invoice 5110,billing
+T0347,2026-04-12,chat,free,The app logs me out every few minutes,login
+T0348,2026-04-12,email,free,Please refund order 9528,billing
+T0349,2026-04-13,chat,free,Why was I billed in April?,billing
+T0350,2026-04-13,email,pro,Please change the billing address on my account,billing
+T0351,2026-04-13,chat,free,I cannot sign in since April,login
+T0352,2026-04-13,phone,team,My account is locked,login
+T0353,2026-04-14,email,free,Sign-in page shows error 7381,login
+T0354,2026-04-14,phone,pro,The verification code is not accepted,login
+T0355,2026-04-15,email,free,Do you offer training for new users?,other
+T0356,2026-04-15,email,pro,Why was I billed in January?,billing
+T0357,2026-04-15,chat,free,Can I collect order 5816 from a store?,shipping
+T0358,2026-04-15,email,pro,Tracking for order 7625 has not moved,shipping
+T0359,2026-04-16,chat,free,Tracking for order 7676 has not moved,shipping
+T0360,2026-04-16,email,pro,How long does delivery to Kenya take?,shipping
+T0361,2026-04-16,email,team,Do you have a plan for a team of 11?,other
+T0362,2026-04-17,email,pro,The courier left my parcel outside,shipping
+T0363,2026-04-17,chat,free,The discount code did not apply to order 1988,billing
+T0364,2026-04-17,email,team,I was charged twice for invoice 4374,billing
+T0365,2026-04-17,email,pro,The package arrived damaged,shipping
+T0366,2026-04-17,chat,free,I cannot sign in since April,login
+T0367,2026-04-18,chat,free,I cannot sign in since March,login
+T0368,2026-04-18,email,pro,The courier left my parcel outside,shipping
+T0369,2026-04-19,email,free,Do you offer training for new users?,other
+T0370,2026-04-20,phone,pro,The price on my last invoice is wrong,billing
+T0371,2026-04-20,phone,free,I was charged twice for invoice 5643,billing
+T0372,2026-04-20,chat,pro,Do you offer training for new users?,other
+T0373,2026-04-21,chat,pro,Where is your privacy policy?,other
+T0374,2026-04-21,email,free,How long does delivery to Canada take?,shipping
+T0375,2026-04-21,chat,free,Can I get a receipt for February?,billing
+T0376,2026-04-22,chat,pro,I forgot the email address I used to log in,login
+T0377,2026-04-22,chat,free,How long does delivery to Japan take?,shipping
+T0378,2026-04-23,chat,free,The price on my last invoice is wrong,billing
+T0379,2026-04-23,email,free,I was charged twice for invoice 3255,billing
+T0380,2026-04-23,email,free,Two-factor login fails on my phone,login
+T0381,2026-04-23,chat,pro,Where is your privacy policy?,other
+T0382,2026-04-24,email,team,Please refund order 5150,billing
+T0383,2026-04-24,chat,pro,Please change the delivery address for order 9037,shipping
+T0384,2026-04-24,email,pro,Where is your privacy policy?,other
+T0385,2026-04-24,email,team,Sign-in page shows error 1303,login
+T0386,2026-04-25,email,free,The password reset email never arrives,login
+T0387,2026-04-25,chat,team,Do you have a plan for a team of 3?,other
+T0388,2026-04-25,chat,free,I forgot the email address I used to log in,login
+T0389,2026-04-26,phone,pro,Can I get a receipt for April?,billing
+T0390,2026-04-26,chat,free,I cannot sign in since February,login
+T0391,2026-04-26,email,free,The verification code is not accepted,login
+T0392,2026-04-27,email,free,I forgot the email address I used to log in,login
+T0393,2026-04-27,phone,free,Why was I billed in February?,billing
+T0394,2026-04-27,chat,free,The price on my last invoice is wrong,billing
+T0395,2026-04-28,,free,The price on my last invoice is wrong,billing
+T0396,2026-04-28,email,free,The discount code did not apply to order 7749,billing
+T0397,2026-04-28,chat,team,The password reset email never arrives,login
+T0398,2026-04-28,phone,free,Tracking for order 5158 has not moved,shipping
+T0399,2026-04-28,chat,free,The discount code did not apply to order 6799,billing
+T0400,2026-04-29,email,team,Do you have a plan for a team of 18?,other
+T0401,2026-04-29,chat,team,Please change the delivery address for order 7826,shipping
+T0402,2026-04-29,phone,free,Why was I billed in March?,billing
+T0403,2026-04-30,email,free,I cannot sign in since April,login
+T0404,2026-04-30,email,free,I forgot the email address I used to log in,login
+T0405,2026-04-30,chat,free,I cannot sign in since February,login
+T0406,2026-04-30,chat,team,The password reset email never arrives,login
+T0407,2026-05-01,chat,free,Please delete my data,other
+T0408,2026-05-01,email,pro,The discount code did not apply to order 9008,billing
+T0409,2026-05-02,chat,pro,Do you have a plan for a team of 16?,other
+T0410,2026-05-02,chat,free,My account is locked,login
+T0411,2026-05-02,email,free,The password reset email never arrives,login
+T0412,2026-05-02,email,pro,The price on my last invoice is wrong,billing
+T0413,2026-05-03,email,team,I forgot the email address I used to log in,login
+T0414,2026-05-03,email,pro,Please change the billing address on my account,billing
+T0415,2026-05-03,phone,free,My card payment for order 9246 failed,billing
+T0416,2026-05-03,email,free,The app logs me out every few minutes,login
+T0417,2026-05-03,chat,free,The verification code is not accepted,login
+T0418,2026-05-04,email,pro,Two-factor login fails on my phone,login
+T0419,2026-05-04,chat,pro,The price on my last invoice is wrong,billing
+T0420,2026-05-04,phone,free,The price on my last invoice is wrong,billing
+T0421,2026-05-04,email,free,I forgot the email address I used to log in,login
+T0422,2026-05-05,email,free,Please change the delivery address for order 9644,shipping
+T0423,2026-05-05,chat,pro,Can I collect order 5404 from a store?,shipping
+T0424,2026-05-05,chat,team,I was charged twice for invoice 6310,billing
+T0425,2026-05-05,email,free,Can I get a receipt for April?,billing
+T0426,2026-05-05,email,free,Please refund order 7113,billing
+T0427,2026-05-05,chat,pro,Why was I billed in January?,billing
+T0428,2026-05-05,chat,free,The website is slow today,other
+T0429,2026-05-05,email,pro,The discount code did not apply to order 6718,billing
+T0430,2026-05-05,email,free,Sign-in page shows error 9878,login
+T0431,2026-05-05,phone,pro,Do you offer training for new users?,other
+T0432,2026-05-06,chat,pro,Please change the delivery address for order 8291,shipping
+T0433,2026-05-06,email,pro,My account is locked,login
+T0434,2026-05-06,email,free,The price on my last invoice is wrong,billing
+T0435,2026-05-06,chat,team,How long does delivery to Canada take?,shipping
+T0436,2026-05-06,email,pro,Please change the billing address on my account,billing
+T0437,2026-05-06,chat,pro,Do you have a plan for a team of 6?,other
+T0438,2026-05-06,email,team,The package arrived damaged,shipping
+T0439,2026-05-07,phone,pro,Where is your privacy policy?,other
+T0440,2026-05-07,email,team,I was charged twice for invoice 2415,billing
+T0441,2026-05-08,email,free,The package arrived damaged,shipping
+T0442,2026-05-08,email,pro,I cannot sign in since March,login
+T0443,2026-05-09,chat,team,The package arrived damaged,shipping
+T0444,2026-05-11,chat,pro,I was charged twice for invoice 9538,billing
+T0445,2026-05-12,chat,pro,Where is parcel 6134?,shipping
+T0446,2026-05-13,email,free,Where is your privacy policy?,other
+T0447,2026-05-13,chat,free,"Thank you, the problem is solved",other
+T0448,2026-05-13,chat,free,Tracking for order 5460 has not moved,shipping
+T0449,2026-05-13,phone,pro,I cannot sign in since May,login
+T0450,2026-05-13,chat,free,The verification code is not accepted,login
+T0451,2026-05-14,email,pro,Order 8989 is missing an item,shipping
+T0452,2026-05-14,email,free,Where is your privacy policy?,other
+T0453,2026-05-15,email,team,My account is locked,login
+T0454,2026-05-15,email,team,Tracking for order 2662 has not moved,shipping
+T0455,2026-05-15,email,free,Why was I billed in February?,billing
+T0456,2026-05-15,phone,free,Two-factor login fails on my phone,login
+T0457,2026-05-15,phone,free,How long does delivery to Portugal take?,shipping
+T0458,2026-05-16,email,free,Order 1373 is missing an item,shipping
+T0459,2026-05-16,email,free,I was charged twice for invoice 6876,billing
+T0460,2026-05-16,email,free,Sign-in page shows error 8468,login
+T0461,2026-05-17,chat,pro,Is there a tablet version of the app?,other
+T0462,2026-05-18,chat,free,Can I get a receipt for February?,billing
+T0463,2026-05-19,chat,free,The discount code did not apply to order 4031,billing
+T0464,2026-05-19,email,free,I was charged twice for invoice 3267,billing
+T0465,2026-05-21,email,free,Please change the delivery address for order 1769,shipping
+T0466,2026-05-21,email,pro,Please change the billing address on my account,billing
+T0467,2026-05-21,phone,team,Where is your privacy policy?,other
+T0468,2026-05-21,phone,free,Please refund order 4761,billing
+T0469,2026-05-21,phone,free,Please change the billing address on my account,billing
+T0470,2026-05-22,chat,free,The package arrived damaged,shipping
+T0471,2026-05-22,phone,pro,Can I add a colleague to my account?,other
+T0472,2026-05-23,phone,free,The discount code did not apply to order 4964,billing
+T0473,2026-05-23,phone,pro,How long does delivery to Canada take?,shipping
+T0474,2026-05-24,email,free,Do you offer training for new users?,other
+T0475,2026-05-24,chat,free,I forgot the email address I used to log in,login
+T0476,2026-05-25,email,free,My card payment for order 5578 failed,billing
+T0477,2026-05-25,chat,pro,Where is parcel 4447?,shipping
+T0478,2026-05-25,email,free,Can I collect order 6280 from a store?,shipping
+T0479,2026-05-25,chat,free,How long does delivery to Japan take?,shipping
+T0480,2026-05-25,email,free,The discount code did not apply to order 4351,billing
+T0481,2026-05-25,email,pro,I was charged twice for invoice 1423,billing
+T0482,2026-05-26,chat,team,The package arrived damaged,shipping
+T0483,2026-05-26,phone,free,The package arrived damaged,shipping
+T0484,2026-05-26,chat,free,The password reset email never arrives,login
+T0485,2026-05-26,email,free,Please change the delivery address for order 6337,shipping
+T0486,2026-05-27,email,free,I was charged twice for invoice 8452,billing
+T0487,2026-05-27,phone,team,I was charged twice for invoice 5219,billing
+T0488,2026-05-27,chat,free,Do you have a plan for a team of 11?,other
+T0489,2026-05-27,chat,free,Please change the billing address on my account,billing
+T0490,2026-05-27,email,free,Sign-in page shows error 8925,login
+T0491,2026-05-28,email,free,Is there a tablet version of the app?,other
+T0492,2026-05-28,email,free,My card payment for order 6612 failed,billing
+T0493,2026-05-28,email,team,The discount code did not apply to order 1598,billing
+T0494,2026-05-28,email,free,Where is your privacy policy?,other
+T0495,2026-05-28,email,free,Do you have a plan for a team of 4?,other
+T0496,2026-05-28,email,pro,The package arrived damaged,shipping
+T0497,2026-05-29,chat,free,I cannot sign in since January,login
+T0498,2026-05-29,chat,pro,The app logs me out every few minutes,login
+T0499,2026-05-29,phone,team,Where is parcel 2712?,shipping
+T0500,2026-05-29,phone,free,My card payment for order 6964 failed,billing
+T0501,2026-05-29,chat,free,Is there a tablet version of the app?,other
+T0502,2026-05-30,chat,free,How long does delivery to Canada take?,shipping
+T0503,2026-05-30,email,pro,My card payment for order 7718 failed,billing
+T0504,2026-05-30,chat,pro,The package arrived damaged,shipping
+T0505,2026-05-31,email,free,My card payment for order 5487 failed,billing
+T0506,2026-05-31,phone,pro,I forgot the email address I used to log in,login
+T0507,2026-05-31,email,free,Do you offer training for new users?,other
+T0508,2026-05-31,chat,pro,My card payment for order 9478 failed,billing
+T0509,2026-06-01,phone,free,Please delete my data,other
+T0510,2026-06-01,email,team,I was charged twice for invoice 7388,billing
+T0511,2026-06-01,email,team,Where is parcel 5789?,shipping
+T0512,2026-06-02,phone,free,Order 5037 is missing an item,shipping
+T0513,2026-06-02,phone,free,Order 2407 is missing an item,shipping
+T0514,2026-06-02,email,free,Please change the billing address on my account,billing
+T0515,2026-06-02,phone,free,Can I collect order 7760 from a store?,shipping
+T0516,2026-06-03,email,free,The verification code is not accepted,login
+T0517,2026-06-04,chat,free,Order 2379 is missing an item,shipping
+T0518,2026-06-04,,team,Order 6099 is missing an item,shipping
+T0519,2026-06-04,email,pro,The discount code did not apply to order 9311,billing
+T0520,2026-06-04,chat,pro,Tracking for order 7637 has not moved,shipping
+T0521,2026-06-04,email,team,Can I get a receipt for March?,billing
+T0522,2026-06-04,chat,team,Sign-in page shows error 9631,login
+T0523,2026-06-04,email,team,The app logs me out every few minutes,login
+T0524,2026-06-05,email,free,Sign-in page shows error 7222,login
+T0525,2026-06-05,email,pro,Where is parcel 2145?,shipping
+T0526,2026-06-05,phone,free,Tracking for order 6584 has not moved,shipping
+T0527,2026-06-06,chat,pro,Can I collect order 8543 from a store?,shipping
+T0528,2026-06-06,email,free,How long does delivery to Norway take?,shipping
+T0529,2026-06-06,phone,team,Two-factor login fails on my phone,login
+T0530,2026-06-06,email,free,Why was I billed in May?,billing
+T0531,2026-06-07,email,team,Do you have a plan for a team of 19?,other
+T0532,2026-06-07,phone,pro,The password reset email never arrives,login
+T0533,2026-06-07,chat,team,The password reset email never arrives,login
+T0534,2026-06-08,email,pro,Please change the billing address on my account,billing
+T0535,2026-06-08,email,pro,The app logs me out every few minutes,login
+T0536,2026-06-08,email,team,The price on my last invoice is wrong,billing
+T0537,2026-06-09,email,pro,Order 8625 is missing an item,shipping
+T0538,2026-06-09,chat,pro,Can I get a receipt for May?,billing
+T0539,2026-06-09,chat,free,How long does delivery to Chile take?,shipping
+T0540,2026-06-09,email,free,Where is your privacy policy?,other
+T0541,2026-06-10,email,free,Two-factor login fails on my phone,login
+T0542,2026-06-10,email,free,The price on my last invoice is wrong,billing
+T0543,2026-06-10,phone,pro,Do you offer training for new users?,other
+T0544,2026-06-10,email,free,How long does delivery to Canada take?,shipping
+T0545,2026-06-10,chat,free,The courier left my parcel outside,shipping
+T0546,2026-06-11,email,free,Tracking for order 4886 has not moved,shipping
+T0547,2026-06-11,chat,free,Two-factor login fails on my phone,login
+T0548,2026-06-11,chat,free,Sign-in page shows error 8849,login
+T0549,2026-06-11,chat,pro,The app logs me out every few minutes,login
+T0550,2026-06-12,email,team,Is there a tablet version of the app?,other
+T0551,2026-06-12,email,pro,I cannot sign in since June,login
+T0552,2026-06-12,email,free,The price on my last invoice is wrong,billing
+T0553,2026-06-13,email,pro,The price on my last invoice is wrong,billing
+T0554,2026-06-13,email,team,Is there a tablet version of the app?,other
+T0555,2026-06-13,email,pro,"Thank you, the problem is solved",other
+T0556,2026-06-14,chat,pro,Please refund order 3033,billing
+T0557,2026-06-14,chat,free,Please refund order 3706,billing
+T0558,2026-06-14,email,team,The discount code did not apply to order 5876,billing
+T0559,2026-06-15,email,free,The package arrived damaged,shipping
+T0560,2026-06-16,chat,free,My card payment for order 4865 failed,billing
+T0561,2026-06-16,phone,free,My card payment for order 4068 failed,billing
+T0562,2026-06-17,phone,free,Tracking for order 4118 has not moved,shipping
+T0563,2026-06-17,phone,pro,The price on my last invoice is wrong,billing
+T0564,2026-06-17,chat,free,Do you have a plan for a team of 15?,other
+T0565,2026-06-18,chat,team,Can I collect order 5610 from a store?,shipping
+T0566,2026-06-19,email,pro,How long does delivery to Portugal take?,shipping
+T0567,2026-06-19,email,free,Sign-in page shows error 6459,login
+T0568,2026-06-19,chat,free,I forgot the email address I used to log in,login
+T0569,2026-06-20,chat,free,Can I get a receipt for January?,billing
+T0570,2026-06-20,chat,free,Is there a tablet version of the app?,other
+T0571,2026-06-20,email,free,The verification code is not accepted,login
+T0572,2026-06-20,phone,free,Tracking for order 9929 has not moved,shipping
+T0573,2026-06-20,email,free,Where is parcel 4966?,shipping
+T0574,2026-06-20,chat,free,Can I collect order 9655 from a store?,shipping
+T0575,2026-06-20,email,team,Tracking for order 8321 has not moved,shipping
+T0576,2026-06-20,chat,free,I forgot the email address I used to log in,login
+T0577,2026-06-21,email,free,Two-factor login fails on my phone,login
+T0578,2026-06-21,email,team,My account is locked,login
+T0579,2026-06-21,email,free,Two-factor login fails on my phone,login
+T0580,2026-06-21,email,free,Can I get a receipt for April?,billing
+T0581,2026-06-21,chat,free,"Thank you, the problem is solved",other
+T0582,2026-06-21,chat,free,The courier left my parcel outside,shipping
+T0583,2026-06-22,chat,free,The price on my last invoice is wrong,billing
+T0584,2026-06-22,email,pro,Order 2324 is missing an item,shipping
+T0585,2026-06-22,email,pro,The discount code did not apply to order 7160,billing
+T0586,2026-06-22,email,pro,Tracking for order 6108 has not moved,shipping
+T0587,2026-06-22,phone,pro,The verification code is not accepted,login
+T0588,2026-06-23,email,team,Tracking for order 8067 has not moved,shipping
+T0589,2026-06-24,phone,free,Tracking for order 7735 has not moved,shipping
+T0590,2026-06-24,email,free,The courier left my parcel outside,shipping
+T0591,2026-06-24,chat,free,Is there a tablet version of the app?,other
+T0592,2026-06-25,chat,free,The courier left my parcel outside,shipping
+T0593,2026-06-25,chat,free,I cannot sign in since June,login
+T0594,2026-06-25,email,free,Please change the delivery address for order 3408,shipping
+T0595,2026-06-25,email,team,The price on my last invoice is wrong,billing
+T0596,2026-06-26,chat,pro,The discount code did not apply to order 2361,billing
+T0597,2026-06-26,email,pro,Sign-in page shows error 3517,login
+T0598,2026-06-26,chat,free,Tracking for order 6399 has not moved,shipping
+T0599,2026-06-26,email,free,Please refund order 4353,billing
+T0600,2026-06-26,email,free,Can I collect order 5672 from a store?,shipping
+T0601,2026-06-27,chat,free,Can I get a receipt for April?,billing
+T0602,2026-06-27,email,free,The courier left my parcel outside,shipping
+T0603,2026-06-27,chat,pro,Where is parcel 5607?,shipping
+T0604,2026-06-27,email,free,How long does delivery to Chile take?,shipping
+T0605,2026-06-28,email,free,Please change the billing address on my account,billing
+T0606,2026-06-28,email,free,The package arrived damaged,shipping
+T0607,2026-06-28,chat,free,The website is slow today,other
+T0608,2026-06-28,chat,free,My card payment for order 1142 failed,billing
+T0609,2026-06-28,chat,free,Please delete my data,other
+T0610,2026-06-28,email,pro,The discount code did not apply to order 7904,billing
+T0611,2026-06-29,chat,free,Please change the delivery address for order 7409,shipping
+T0612,2026-06-29,chat,free,My card payment for order 2458 failed,billing
+T0613,2026-06-29,chat,free,Can I collect order 8545 from a store?,shipping
+T0614,2026-06-29,chat,free,The password reset email never arrives,login
+T0615,2026-06-30,chat,free,Sign-in page shows error 8028,login
+T0616,2026-06-30,chat,free,How long does delivery to Japan take?,shipping
+T0617,2026-06-30,email,free,Order 1120 is missing an item,shipping
+T0618,2026-06-30,email,free,Can I collect order 9778 from a store?,shipping

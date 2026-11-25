@@ -1,0 +1,8 @@
+{
+  "prompts": {"v1": "prompts/triage_v1.txt", "v2": "prompts/triage_v2.txt"},
+  "settings": {"temperature": 0, "max_tokens": 20},
+  "backends": [
+    {"type": "chat", "label": "local", "base_url": "http://localhost:11434/v1", "model": "PUT-A-LOCAL-MODEL-NAME"},
+    {"type": "chat", "label": "hosted", "base_url": "https://PUT-THE-SERVICE-URL/v1", "model": "PUT-A-MODEL-ID", "key_env": "PUT_THE_KEY_VARIABLE_NAME"}
+  ]
+}

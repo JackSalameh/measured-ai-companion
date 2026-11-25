@@ -1,0 +1,15 @@
+WB1.14-a  extraction on 14 invoices, 89 true fields
+  field       rules P rules R  model P model R
+  invoice_no     1.00    0.64     1.00    1.00
+  date           1.00    0.57     0.93    0.93
+  supplier       1.00    1.00     1.00    1.00
+  net            1.00    0.64     1.00    1.00
+  vat            1.00    0.64     1.00    1.00
+  total          1.00    0.57     0.93    0.93
+  po_number      1.00    0.60     0.83    1.00
+  rules  60 right, 0 wrong, 29 missing, 0 invented: P 1.000, R 0.674
+  model  87 right, 2 wrong, 0 missing, 1 invented: P 0.967, R 0.978
+validation rules on the replay demo-model output (no truth used):
+  KM-0461  net + vat = 1116.53, not total 930.44
+  OT-9002  order PO-122 not in our order register
+  2 of 14 invoices flagged

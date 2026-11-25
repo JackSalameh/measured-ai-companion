@@ -1,0 +1,12 @@
+WB1.6-b  Detector duel
+  windows: 300 training, 150 validation, 300 test (half faulty); noise SD 0.35, fault amplitude 0.2 to 1.2, seed 6201
+Detector A: peak > 2.2600   (training accuracy 0.703)
+Detector C: single neuron on 4 features, best validation accuracy 0.727 at epoch 700
+Detector B: 4-6-1 network, rate 0.5, best validation accuracy 0.740 at epoch 1700
+  A threshold test accuracy 198/300 = 0.660   faults caught 75/150   false alarms 27/150
+  C neuron    test accuracy 214/300 = 0.713   faults caught 94/150   false alarms 30/150
+  B network   test accuracy 221/300 = 0.737   faults caught 93/150   false alarms 22/150
+Faults caught by fault strength (test windows)
+  amplitude 0.20 to 0.53: threshold 13/56   neuron 19/56   network 17/56
+  amplitude 0.53 to 0.87: threshold 22/46   neuron 29/46   network 30/46
+  amplitude 0.87 to 1.20: threshold 40/48   neuron 46/48   network 46/48

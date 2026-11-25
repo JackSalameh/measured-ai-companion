@@ -1,0 +1,19 @@
+WB1.16-a  portfolio runner: 15 chapters
+  chapter   apps  passed  failed  skipped
+  ch01         2       7       0        0
+  ch02         2       5       0        0
+  ch03         2       5       0        0
+  ch04         2       4       0        0
+  ch05         2       5       0        0
+  ch06         2       4       0        0
+  ch07         2       5       0        0
+  ch08         2       8       0        0
+  ch09         2      10       0        0
+  ch10         2      11       0        0
+  ch11         2       5       0        0
+  ch12         2       4       0        0
+  ch13         3       5       0        0
+  ch14         2       4       0        0
+  ch15         2       4       0        0
+  total       31      86       0        0
+all chapters reproduce

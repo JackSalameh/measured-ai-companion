@@ -1,0 +1,27 @@
+WB1.10-a  prompt tester: demo with two stand-in programs
+         (programs, not language models)
+golden set: 98 tickets from the P1 test split
+triage_v1.txt: sha256 15eabbdb, examples in golden set:
+  exact copies 0, near-copies 0
+triage_v2.txt: sha256 ca976fc3, examples in golden set:
+  exact copies 0, near-copies 0
+rules-v2: correct 91/98, invalid answers 0
+  true \ answer  billing    login shipping    other  invalid
+  billing             50        0        0        0        0
+  login                0       15        0        3        0
+  shipping             0        0       22        4        0
+  other                0        0        0        4        0
+1-NN: correct 80/98, invalid answers 0
+  true \ answer  billing    login shipping    other  invalid
+  billing             32        0       18        0        0
+  login                0       18        0        0        0
+  shipping             0        0       26        0        0
+  other                0        0        0        4        0
+paired, same 98 tickets: both right 73, both wrong 0,
+  only rules-v2 right 18, only 1-NN right 7
+parser check on five answers:
+  'billing'                  -> billing
+  'Billing.'                 -> billing
+  ' shipping\n'              -> shipping
+  'The queue is billing.'    -> invalid
+  'billing or shipping'      -> invalid

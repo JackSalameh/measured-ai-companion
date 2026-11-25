@@ -1,0 +1,12 @@
+WB1.9-b  replay demo (synthetic recording, not real provider answers)
+backend   model               task              in  out     s  check
+demo-A    synthetic-a         T1-extract        96   28  0.84  pass
+demo-A    synthetic-a         T2-classify       71    1  0.41  pass
+demo-A    synthetic-a         T3-arithmetic     42    3  0.38  pass
+demo-A    synthetic-a         T4-translate      48   37  0.97  human
+demo-A    synthetic-a         T5-summarize      96   27  0.88  human
+demo-B    synthetic-b         T1-extract       101   33  1.12  fail
+demo-B    synthetic-b         T2-classify       74    2  0.52  pass
+demo-B    synthetic-b         T3-arithmetic     45    3  0.47  fail
+demo-B    synthetic-b         T4-translate      52   41  1.20  human
+demo-B    synthetic-b         T5-summarize      99   49  1.31  fail

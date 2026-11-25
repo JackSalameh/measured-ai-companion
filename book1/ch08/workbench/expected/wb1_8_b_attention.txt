@@ -1,0 +1,6 @@
+WB1.8-b  Attention by hand: 3 tokens, d_k = 2
+  scores q.k / sqrt(2)                 weights (each row sums to 1)         output
+  parcel   0.707  0.000  0.707       0.401  0.198  0.401   (sum 1.000)     0.602  0.398
+  arrived  0.000  0.707  0.707       0.198  0.401  0.401   (sum 1.000)     0.398  0.602
+  damaged  0.707  0.707  1.414       0.248  0.248  0.503   (sum 1.000)     0.500  0.500
+  independent implementation agrees: yes (largest difference 0.0e+00)

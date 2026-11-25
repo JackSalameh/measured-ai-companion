@@ -1,0 +1,15 @@
+WB1.11-a  summary checker: 9 claims, ledger 722 lines
+  S1  OK      sales.year = 274142.09
+  S2  WRONG   sales.grew.every.quarter: stated yes, ledger no
+  S3  OK      sales.best.quarter = q3
+  S4  WRONG   purchases.year: stated 123069.67, ledger 132069.67
+  S5  OK      sale.largest = 4793.37
+  S6  OK      rent.year = 45600.0
+  S7  WRONG   travel.change.pct: stated -40, ledger 53.9
+  S8  SOURCE  no ground truth in the ledger: check by hand
+  S9  WRONG   issues.count: stated 0, ledger 6
+ok 4, wrong 4, to check by hand 1
+issues in the ledger:
+  duplicate       J0014, J0101
+  no description  J0041, J0181, J0301
+  impossible date J0223

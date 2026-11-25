@@ -1,0 +1,17 @@
+WB1.9-a  usage: usage_helpdesk.csv
+         prices: prices_2026-11-22.csv
+tokens per month: input 72,240,000, output 7,806,000
+
+model               classify    reply  summary    total   cached   out
+gpt-6.2-sol            57.00   165.00     0.54   222.54   222.54   35%
+claude-sonnet-5-5      57.00   165.00     0.54   222.54   142.74   35%
+gemini-3.5-flash       43.20   135.00     0.41   178.61   178.61   39%
+mistral-small-2603      4.23    11.25     0.04    15.52     9.85   30%
+
+USD per month. cached: cacheable input billed at the cached-input
+price if it reaches the provider's minimum cacheable length
+(OpenAI 1,024, Anthropic 512, Google 4,096 tokens; Mistral AI
+publishes none). out: share of the uncached total paid for output.
+Not counted: cache writes, retries, failed calls, reasoning tokens
+billed as output, long-prompt surcharges, batch discounts, taxes,
+and the time spent checking the answers.

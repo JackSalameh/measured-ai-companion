@@ -1,0 +1,24 @@
+WB1.6-a  Tiny network from scratch: a 2-2-1 network learns XOR
+Gradient check at the starting weights (seed 6101): largest difference 6.4e-11
+  w11  backprop -0.000259   finite difference -0.000259
+  w12  backprop -0.000596   finite difference -0.000596
+  w21  backprop +0.002842   finite difference +0.002842
+  w22  backprop -0.001710   finite difference -0.001710
+  b1   backprop -0.000332   finite difference -0.000332
+  b2   backprop -0.002583   finite difference -0.002583
+  v1   backprop +0.002636   finite difference +0.002636
+  v2   backprop +0.001034   finite difference +0.001034
+  c    backprop +0.000755   finite difference +0.000755
+Training: gradient descent, learning rate 1.0
+  epoch     0   loss 0.6923
+  epoch  1000   loss 0.0333
+  epoch  2000   loss 0.0116
+  epoch  3000   loss 0.0070
+  epoch  4000   loss 0.0050
+  epoch  5000   loss 0.0039
+Result
+  input (0, 0)   target 0   output 0.003   -> 0
+  input (0, 1)   target 1   output 0.995   -> 1
+  input (1, 0)   target 1   output 0.996   -> 1
+  input (1, 1)   target 0   output 0.003   -> 0
+Same training from 20 different random starts (seeds 6101 to 6120): 15 of 20 solve XOR

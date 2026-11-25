@@ -1,0 +1,11 @@
+WB1.4-a  Base-rate calculator
+  base rate 2.00%, sensitivity 90.00%, false-alarm rate 5.00%
+1. Natural frequencies, out of 10,000 cases
+                    alarm   no alarm    total
+  condition           180         20      200
+  no condition        490      9,310    9,800
+  total               670      9,330   10,000
+  P(condition | alarm) = 180 / 670 = 0.2687
+2. Bayes' rule         = 0.2687
+3. Monte Carlo         = 0.2674  (standard error 0.0038, 13,468 alarms in 200,000 simulated cases)
+  agreement: |Monte Carlo - Bayes| = 0.0013 <= 3 standard errors (0.0114): yes

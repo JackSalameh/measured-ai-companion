@@ -1,0 +1,11 @@
+WB1.12-a  citation checker: 9 references, library of 8 works
+  R1  OK        arxiv found (vaswani2017)
+  R2  OK        doi found (keshav2007)
+  R3  MISMATCH  arxiv found (lewis2020): year 2021 vs 2020
+  R4  SYNTAX    doi 10.1001-jama.1983.03330370053031 is not a valid doi
+  R5  SYNTAX    arxiv 2313.01798 is not a valid arxiv
+  R6  MISMATCH  arxiv found (huang2024): title differs from 'Large language models cannot self-correct reasoning yet'
+  R7  SYNTAX    isbn 9780262039247 is not a valid isbn
+  R8  NO ID     no identifier: search for the title at a library or index
+  R9  OK        isbn found (goodfellow2016)
+MISMATCH 2, NO ID 1, OK 3, SYNTAX 3

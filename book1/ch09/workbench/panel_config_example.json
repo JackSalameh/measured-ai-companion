@@ -1,0 +1,8 @@
+{
+  "_note": "Copy this file, keep the back ends you have, set the keys as environment variables, then run: python wb1_9_b_adapter.py panel my_config.json. Model names change often: copy them from each provider's model list on the day you run.",
+  "backends": [
+    {"type": "remote", "label": "remote-1", "base_url": "https://api.example-provider-1.com/v1", "model": "MODEL-ID-FROM-THE-PROVIDER", "key_env": "PROVIDER1_API_KEY"},
+    {"type": "remote", "label": "remote-2", "base_url": "https://api.example-provider-2.com/v1", "model": "MODEL-ID-FROM-THE-PROVIDER", "key_env": "PROVIDER2_API_KEY", "settings": {"max_tokens": null, "max_completion_tokens": 300}},
+    {"type": "local", "label": "local", "base_url": "http://localhost:11434/v1", "model": "LOCAL-MODEL-NAME"}
+  ]
+}

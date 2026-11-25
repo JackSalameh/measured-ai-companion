@@ -1,0 +1,18 @@
+date,year,milestone,idea,ledger
+1943-12,1943,McCulloch and Pitts: a logical calculus of nervous activity,neurons as logic units,L-161
+1950-10,1950,Turing: Computing Machinery and Intelligence,judge machines by behavior (imitation game),L-162
+1955-08-31,1955,Dartmouth proposal (study planned for summer 1956),name and program for the field,L-160
+1958-11,1958,Rosenblatt: the perceptron,weights adjusted from examples,L-163
+1966-01,1966,Weizenbaum: ELIZA,pattern-matching dialogue from a script,L-172
+1966-11,1966,ALPAC report on machine translation,evaluation of a field against its promises,L-184
+1969,1969,Minsky and Papert: Perceptrons,proven limits of single-layer perceptrons,L-164
+1973-04,1973,Lighthill: Artificial Intelligence: A General Survey,combinatorial explosion,L-185
+1980,1980,Fukushima: the neocognitron,position-tolerant feature layers,L-201
+1982-09,1982,McDermott: R1 rule-based configurer,expert knowledge written as rules,L-188
+1986-10,1986,"Rumelhart, Hinton and Williams: back-propagating errors",training hidden layers,L-165
+1989-12,1989,LeCun and colleagues: backpropagation for zip codes,one network learns the whole recognition task,L-202
+1995-09,1995,Cortes and Vapnik: support-vector networks,maximum-margin classifier,L-203
+1998-11,1998,LeCun and colleagues: gradient-based learning for documents,convolutional networks,L-166
+2012,2012,"Krizhevsky, Sutskever and Hinton: deep CNN on ImageNet",deep networks at scale on GPUs,L-167
+2014-09,2014,"Bahdanau, Cho and Bengio: attention for translation",attention,L-168
+2017-06,2017,Vaswani and colleagues: the Transformer,attention without recurrence,L-169

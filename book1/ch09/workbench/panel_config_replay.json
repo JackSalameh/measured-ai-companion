@@ -1,0 +1,7 @@
+{
+  "run_at": "2026-11-22T00:00:00+00:00",
+  "backends": [
+    {"type": "replay", "label": "demo-A", "file": "replay_demo.jsonl"},
+    {"type": "replay", "label": "demo-B", "file": "replay_demo.jsonl"}
+  ]
+}

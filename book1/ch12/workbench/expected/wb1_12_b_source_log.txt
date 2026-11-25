@@ -1,0 +1,7 @@
+WB1.12-b  source log checker: 7 rows, checked against 2026-11-25
+  line 4  S-003  marked verified but no source given
+  line 5  S-004  checked date '2026-11-31' is not a real date (YYYY-MM-DD)
+  line 6  S-005  found wrong (X) but still used in notes/prompting.md
+  line 7  S-005  duplicate id
+  line 8  S-007  status 'maybe' is not one of V, V-sec, P, X
+5 problems

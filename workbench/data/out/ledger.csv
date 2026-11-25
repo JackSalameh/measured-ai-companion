@@ -1,0 +1,723 @@
+entry_id,date,account,account_name,description,debit,credit,currency
+J0001,2026-01-01,1200,Accounts receivable,Sale on credit,4600.65,0.00,EUR
+J0001,2026-01-01,4000,Sales,Sale on credit,0.00,4600.65,EUR
+J0002,2026-01-02,1200,Accounts receivable,Sale on credit,3442.31,0.00,EUR
+J0002,2026-01-02,4000,Sales,Sale on credit,0.00,3442.31,EUR
+J0003,2026-01-02,5000,Purchases,Purchase of goods on credit,1557.20,0.00,EUR
+J0003,2026-01-02,2000,Accounts payable,Purchase of goods on credit,0.00,1557.20,EUR
+J0004,2026-01-03,1000,Bank,Customer payment received,2794.09,0.00,EUR
+J0004,2026-01-03,1200,Accounts receivable,Customer payment received,0.00,2794.09,EUR
+J0005,2026-01-03,1000,Bank,Customer payment received,2830.74,0.00,EUR
+J0005,2026-01-03,1200,Accounts receivable,Customer payment received,0.00,2830.74,EUR
+J0006,2026-01-03,5000,Purchases,Purchase of goods on credit,3129.85,0.00,EUR
+J0006,2026-01-03,2000,Accounts payable,Purchase of goods on credit,0.00,3129.85,EUR
+J0007,2026-01-04,1200,Accounts receivable,Sale on credit,4365.94,0.00,EUR
+J0007,2026-01-04,4000,Sales,Sale on credit,0.00,4365.94,EUR
+J0008,2026-01-10,6300,Utilities,Electricity and water,358.50,0.00,EUR
+J0008,2026-01-10,1000,Bank,Electricity and water,0.00,358.50,EUR
+J0009,2026-01-11,1000,Bank,Customer payment received,922.11,0.00,EUR
+J0009,2026-01-11,1200,Accounts receivable,Customer payment received,0.00,922.11,EUR
+J0010,2026-01-15,1200,Accounts receivable,Sale on credit,4793.37,0.00,EUR
+J0010,2026-01-15,4000,Sales,Sale on credit,0.00,4793.37,EUR
+J0011,2026-01-15,1000,Bank,Customer payment received,3726.79,0.00,EUR
+J0011,2026-01-15,1200,Accounts receivable,Customer payment received,0.00,3726.79,EUR
+J0012,2026-01-16,1000,Bank,Customer payment received,1162.04,0.00,EUR
+J0012,2026-01-16,1200,Accounts receivable,Customer payment received,0.00,1162.04,EUR
+J0013,2026-01-16,6100,Rent,Office rent,2400.00,0.00,EUR
+J0013,2026-01-16,1000,Bank,Office rent,0.00,2400.00,EUR
+J0014,2026-01-16,6100,Rent,Office rent,2400.00,0.00,EUR
+J0014,2026-01-16,1000,Bank,Office rent,0.00,2400.00,EUR
+J0015,2026-01-18,5000,Purchases,Purchase of goods on credit,3014.08,0.00,EUR
+J0015,2026-01-18,2000,Accounts payable,Purchase of goods on credit,0.00,3014.08,EUR
+J0016,2026-01-19,2000,Accounts payable,Supplier payment,3451.80,0.00,EUR
+J0016,2026-01-19,1000,Bank,Supplier payment,0.00,3451.80,EUR
+J0017,2026-01-20,1200,Accounts receivable,Sale on credit,271.41,0.00,EUR
+J0017,2026-01-20,4000,Sales,Sale on credit,0.00,271.41,EUR
+J0018,2026-01-20,1200,Accounts receivable,Sale on credit,4586.04,0.00,EUR
+J0018,2026-01-20,4000,Sales,Sale on credit,0.00,4586.04,EUR
+J0019,2026-01-21,1200,Accounts receivable,Sale on credit,3208.57,0.00,EUR
+J0019,2026-01-21,4000,Sales,Sale on credit,0.00,3208.57,EUR
+J0020,2026-01-22,5000,Purchases,Purchase of goods on credit,2471.17,0.00,EUR
+J0020,2026-01-22,2000,Accounts payable,Purchase of goods on credit,0.00,2471.17,EUR
+J0021,2026-01-22,6300,Utilities,Electricity and water,274.55,0.00,EUR
+J0021,2026-01-22,1000,Bank,Electricity and water,0.00,274.55,EUR
+J0022,2026-01-23,1000,Bank,Customer payment received,4059.66,0.00,EUR
+J0022,2026-01-23,1200,Accounts receivable,Customer payment received,0.00,4059.66,EUR
+J0023,2026-01-24,5000,Purchases,Purchase of goods on credit,1116.53,0.00,EUR
+J0023,2026-01-24,2000,Accounts payable,Purchase of goods on credit,0.00,1116.53,EUR
+J0024,2026-01-25,6200,Salaries,Salaries,10643.98,0.00,EUR
+J0024,2026-01-25,1000,Bank,Salaries,0.00,10643.98,EUR
+J0025,2026-01-25,1200,Accounts receivable,Sale on credit,2868.87,0.00,EUR
+J0025,2026-01-25,4000,Sales,Sale on credit,0.00,2868.87,EUR
+J0026,2026-01-27,1000,Bank,Customer payment received,2118.35,0.00,EUR
+J0026,2026-01-27,1200,Accounts receivable,Customer payment received,0.00,2118.35,EUR
+J0027,2026-01-27,1000,Bank,Customer payment received,2607.23,0.00,EUR
+J0027,2026-01-27,1200,Accounts receivable,Customer payment received,0.00,2607.23,EUR
+J0028,2026-01-30,1000,Bank,Customer payment received,2410.26,0.00,EUR
+J0028,2026-01-30,1200,Accounts receivable,Customer payment received,0.00,2410.26,EUR
+J0029,2026-01-30,6100,Rent,Office rent,2400.00,0.00,EUR
+J0029,2026-01-30,1000,Bank,Office rent,0.00,2400.00,EUR
+J0030,2026-01-30,1200,Accounts receivable,Sale on credit,1148.60,0.00,EUR
+J0030,2026-01-30,4000,Sales,Sale on credit,0.00,1148.60,EUR
+J0031,2026-01-31,6400,Travel,Travel expenses,158.56,0.00,EUR
+J0031,2026-01-31,1000,Bank,Travel expenses,0.00,158.56,EUR
+J0032,2026-01-31,5000,Purchases,Purchase of goods on credit,488.17,0.00,EUR
+J0032,2026-01-31,2000,Accounts payable,Purchase of goods on credit,0.00,488.17,EUR
+J0033,2026-01-31,5000,Purchases,Purchase of goods on credit,403.97,0.00,EUR
+J0033,2026-01-31,2000,Accounts payable,Purchase of goods on credit,0.00,403.97,EUR
+J0034,2026-02-01,5000,Purchases,Purchase of goods on credit,1596.56,0.00,EUR
+J0034,2026-02-01,2000,Accounts payable,Purchase of goods on credit,0.00,1596.56,EUR
+J0035,2026-02-02,5000,Purchases,Purchase of goods on credit,2157.37,0.00,EUR
+J0035,2026-02-02,2000,Accounts payable,Purchase of goods on credit,0.00,2157.37,EUR
+J0036,2026-02-02,5000,Purchases,Purchase of goods on credit,189.21,0.00,EUR
+J0036,2026-02-02,2000,Accounts payable,Purchase of goods on credit,0.00,189.21,EUR
+J0037,2026-02-03,1000,Bank,Customer payment received,2784.12,0.00,EUR
+J0037,2026-02-03,1200,Accounts receivable,Customer payment received,0.00,2784.12,EUR
+J0038,2026-02-04,6300,Utilities,Electricity and water,196.82,0.00,EUR
+J0038,2026-02-04,1000,Bank,Electricity and water,0.00,196.82,EUR
+J0039,2026-02-04,1000,Bank,Customer payment received,3225.23,0.00,EUR
+J0039,2026-02-04,1200,Accounts receivable,Customer payment received,0.00,3225.23,EUR
+J0040,2026-02-05,6100,Rent,Office rent,2400.00,0.00,EUR
+J0040,2026-02-05,1000,Bank,Office rent,0.00,2400.00,EUR
+J0041,2026-02-07,2000,Accounts payable,,587.13,0.00,EUR
+J0041,2026-02-07,1000,Bank,,0.00,587.13,EUR
+J0042,2026-02-07,5000,Purchases,Purchase of goods on credit,2073.28,0.00,EUR
+J0042,2026-02-07,2000,Accounts payable,Purchase of goods on credit,0.00,2073.28,EUR
+J0043,2026-02-10,1000,Bank,Customer payment received,1539.46,0.00,EUR
+J0043,2026-02-10,1200,Accounts receivable,Customer payment received,0.00,1539.46,EUR
+J0044,2026-02-10,1000,Bank,Customer payment received,3387.32,0.00,EUR
+J0044,2026-02-10,1200,Accounts receivable,Customer payment received,0.00,3387.32,EUR
+J0045,2026-02-10,1000,Bank,Customer payment received,3181.23,0.00,EUR
+J0045,2026-02-10,1200,Accounts receivable,Customer payment received,0.00,3181.23,EUR
+J0046,2026-02-11,1000,Bank,Customer payment received,2679.00,0.00,EUR
+J0046,2026-02-11,1200,Accounts receivable,Customer payment received,0.00,2679.00,EUR
+J0047,2026-02-13,6100,Rent,Office rent,2400.00,0.00,EUR
+J0047,2026-02-13,1000,Bank,Office rent,0.00,2400.00,EUR
+J0048,2026-02-14,2000,Accounts payable,Supplier payment,1160.84,0.00,EUR
+J0048,2026-02-14,1000,Bank,Supplier payment,0.00,1160.84,EUR
+J0049,2026-02-15,6300,Utilities,Electricity and water,383.51,0.00,EUR
+J0049,2026-02-15,1000,Bank,Electricity and water,0.00,383.51,EUR
+J0050,2026-02-17,1000,Bank,Customer payment received,1639.34,0.00,EUR
+J0050,2026-02-17,1200,Accounts receivable,Customer payment received,0.00,1639.34,EUR
+J0051,2026-02-19,2000,Accounts payable,Supplier payment,1934.26,0.00,EUR
+J0051,2026-02-19,1000,Bank,Supplier payment,0.00,1934.26,EUR
+J0052,2026-02-20,5000,Purchases,Purchase of goods on credit,2883.82,0.00,EUR
+J0052,2026-02-20,2000,Accounts payable,Purchase of goods on credit,0.00,2883.82,EUR
+J0053,2026-02-20,1200,Accounts receivable,Sale on credit,2989.46,0.00,EUR
+J0053,2026-02-20,4000,Sales,Sale on credit,0.00,2989.46,EUR
+J0054,2026-02-20,1000,Bank,Customer payment received,4279.30,0.00,EUR
+J0054,2026-02-20,1200,Accounts receivable,Customer payment received,0.00,4279.30,EUR
+J0055,2026-02-21,2000,Accounts payable,Supplier payment,1619.86,0.00,EUR
+J0055,2026-02-21,1000,Bank,Supplier payment,0.00,1619.86,EUR
+J0056,2026-02-24,2000,Accounts payable,Supplier payment,1037.53,0.00,EUR
+J0056,2026-02-24,1000,Bank,Supplier payment,0.00,1037.53,EUR
+J0057,2026-02-24,1200,Accounts receivable,Sale on credit,1737.14,0.00,EUR
+J0057,2026-02-24,4000,Sales,Sale on credit,0.00,1737.14,EUR
+J0058,2026-02-25,5000,Purchases,Purchase of goods on credit,2997.24,0.00,EUR
+J0058,2026-02-25,2000,Accounts payable,Purchase of goods on credit,0.00,2997.24,EUR
+J0059,2026-02-28,2000,Accounts payable,Supplier payment,2372.15,0.00,EUR
+J0059,2026-02-28,1000,Bank,Supplier payment,0.00,2372.15,EUR
+J0060,2026-02-28,6400,Travel,Travel expenses,812.83,0.00,EUR
+J0060,2026-02-28,1000,Bank,Travel expenses,0.00,812.83,EUR
+J0061,2026-03-02,1000,Bank,Customer payment received,4289.24,0.00,EUR
+J0061,2026-03-02,1200,Accounts receivable,Customer payment received,0.00,4289.24,EUR
+J0062,2026-03-02,6400,Travel,Travel expenses,344.09,0.00,EUR
+J0062,2026-03-02,1000,Bank,Travel expenses,0.00,344.09,EUR
+J0063,2026-03-02,1000,Bank,Customer payment received,688.56,0.00,EUR
+J0063,2026-03-02,1200,Accounts receivable,Customer payment received,0.00,688.56,EUR
+J0064,2026-03-03,1000,Bank,Customer payment received,4083.44,0.00,EUR
+J0064,2026-03-03,1200,Accounts receivable,Customer payment received,0.00,4083.44,EUR
+J0065,2026-03-04,6100,Rent,Office rent,2400.00,0.00,EUR
+J0065,2026-03-04,1000,Bank,Office rent,0.00,2400.00,EUR
+J0066,2026-03-04,2000,Accounts payable,Supplier payment,1285.43,0.00,EUR
+J0066,2026-03-04,1000,Bank,Supplier payment,0.00,1285.43,EUR
+J0067,2026-03-06,1000,Bank,Customer payment received,2549.38,0.00,EUR
+J0067,2026-03-06,1200,Accounts receivable,Customer payment received,0.00,2549.38,EUR
+J0068,2026-03-07,1200,Accounts receivable,Sale on credit,271.86,0.00,EUR
+J0068,2026-03-07,4000,Sales,Sale on credit,0.00,271.86,EUR
+J0069,2026-03-08,6100,Rent,Office rent,2400.00,0.00,EUR
+J0069,2026-03-08,1000,Bank,Office rent,0.00,2400.00,EUR
+J0070,2026-03-09,5000,Purchases,Purchase of goods on credit,3033.15,0.00,EUR
+J0070,2026-03-09,2000,Accounts payable,Purchase of goods on credit,0.00,3033.15,EUR
+J0071,2026-03-09,1000,Bank,Customer payment received,740.18,0.00,EUR
+J0071,2026-03-09,1200,Accounts receivable,Customer payment received,0.00,740.18,EUR
+J0072,2026-03-11,2000,Accounts payable,Supplier payment,3218.52,0.00,EUR
+J0072,2026-03-11,1000,Bank,Supplier payment,0.00,3218.52,EUR
+J0073,2026-03-13,1200,Accounts receivable,Sale on credit,1630.18,0.00,EUR
+J0073,2026-03-13,4000,Sales,Sale on credit,0.00,1630.18,EUR
+J0074,2026-03-13,1200,Accounts receivable,Sale on credit,2987.89,0.00,EUR
+J0074,2026-03-13,4000,Sales,Sale on credit,0.00,2987.89,EUR
+J0075,2026-03-15,6200,Salaries,Salaries,9809.81,0.00,EUR
+J0075,2026-03-15,1000,Bank,Salaries,0.00,9809.81,EUR
+J0076,2026-03-16,1200,Accounts receivable,Sale on credit,1617.95,0.00,EUR
+J0076,2026-03-16,4000,Sales,Sale on credit,0.00,1617.95,EUR
+J0077,2026-03-19,2000,Accounts payable,Supplier payment,2587.57,0.00,EUR
+J0077,2026-03-19,1000,Bank,Supplier payment,0.00,2587.57,EUR
+J0078,2026-03-19,1200,Accounts receivable,Sale on credit,4007.29,0.00,EUR
+J0078,2026-03-19,4000,Sales,Sale on credit,0.00,4007.29,EUR
+J0079,2026-03-19,1200,Accounts receivable,Sale on credit,1669.86,0.00,EUR
+J0079,2026-03-19,4000,Sales,Sale on credit,0.00,1669.86,EUR
+J0080,2026-03-20,1000,Bank,Customer payment received,1594.95,0.00,EUR
+J0080,2026-03-20,1200,Accounts receivable,Customer payment received,0.00,1594.95,EUR
+J0081,2026-03-20,5000,Purchases,Purchase of goods on credit,3278.34,0.00,EUR
+J0081,2026-03-20,2000,Accounts payable,Purchase of goods on credit,0.00,3278.34,EUR
+J0082,2026-03-23,2000,Accounts payable,Supplier payment,3465.93,0.00,EUR
+J0082,2026-03-23,1000,Bank,Supplier payment,0.00,3465.93,EUR
+J0083,2026-03-24,1000,Bank,Customer payment received,2423.70,0.00,EUR
+J0083,2026-03-24,1200,Accounts receivable,Customer payment received,0.00,2423.70,EUR
+J0084,2026-03-24,6100,Rent,Office rent,2400.00,0.00,EUR
+J0084,2026-03-24,1000,Bank,Office rent,0.00,2400.00,EUR
+J0085,2026-03-25,1200,Accounts receivable,Sale on credit,2018.98,0.00,EUR
+J0085,2026-03-25,4000,Sales,Sale on credit,0.00,2018.98,EUR
+J0086,2026-03-25,1200,Accounts receivable,Sale on credit,3306.28,0.00,EUR
+J0086,2026-03-25,4000,Sales,Sale on credit,0.00,3306.28,EUR
+J0087,2026-03-25,1000,Bank,Customer payment received,2406.60,0.00,EUR
+J0087,2026-03-25,1200,Accounts receivable,Customer payment received,0.00,2406.60,EUR
+J0088,2026-03-26,1000,Bank,Customer payment received,2764.17,0.00,EUR
+J0088,2026-03-26,1200,Accounts receivable,Customer payment received,0.00,2764.17,EUR
+J0089,2026-03-26,2000,Accounts payable,Supplier payment,1824.24,0.00,EUR
+J0089,2026-03-26,1000,Bank,Supplier payment,0.00,1824.24,EUR
+J0090,2026-03-26,1000,Bank,Customer payment received,1269.60,0.00,EUR
+J0090,2026-03-26,1200,Accounts receivable,Customer payment received,0.00,1269.60,EUR
+J0091,2026-03-27,1200,Accounts receivable,Sale on credit,4041.56,0.00,EUR
+J0091,2026-03-27,4000,Sales,Sale on credit,0.00,4041.56,EUR
+J0092,2026-03-29,1000,Bank,Customer payment received,4282.17,0.00,EUR
+J0092,2026-03-29,1200,Accounts receivable,Customer payment received,0.00,4282.17,EUR
+J0093,2026-03-30,6200,Salaries,Salaries,10744.71,0.00,EUR
+J0093,2026-03-30,1000,Bank,Salaries,0.00,10744.71,EUR
+J0094,2026-03-30,1000,Bank,Customer payment received,3187.87,0.00,EUR
+J0094,2026-03-30,1200,Accounts receivable,Customer payment received,0.00,3187.87,EUR
+J0095,2026-03-31,2000,Accounts payable,Supplier payment,259.12,0.00,EUR
+J0095,2026-03-31,1000,Bank,Supplier payment,0.00,259.12,EUR
+J0096,2026-04-01,2000,Accounts payable,Supplier payment,776.78,0.00,EUR
+J0096,2026-04-01,1000,Bank,Supplier payment,0.00,776.78,EUR
+J0097,2026-04-01,5000,Purchases,Purchase of goods on credit,1400.77,0.00,EUR
+J0097,2026-04-01,2000,Accounts payable,Purchase of goods on credit,0.00,1400.77,EUR
+J0098,2026-04-01,5000,Purchases,Purchase of goods on credit,2928.34,0.00,EUR
+J0098,2026-04-01,2000,Accounts payable,Purchase of goods on credit,0.00,2928.34,EUR
+J0099,2026-04-04,1200,Accounts receivable,Sale on credit,3513.50,0.00,EUR
+J0099,2026-04-04,4000,Sales,Sale on credit,0.00,3513.50,EUR
+J0100,2026-04-05,5000,Purchases,Purchase of goods on credit,1601.98,0.00,EUR
+J0100,2026-04-05,2000,Accounts payable,Purchase of goods on credit,0.00,1601.98,EUR
+J0101,2026-04-05,5000,Purchases,Purchase of goods on credit,1601.98,0.00,EUR
+J0101,2026-04-05,2000,Accounts payable,Purchase of goods on credit,0.00,1601.98,EUR
+J0102,2026-04-05,2000,Accounts payable,Supplier payment,3030.43,0.00,EUR
+J0102,2026-04-05,1000,Bank,Supplier payment,0.00,3030.43,EUR
+J0103,2026-04-10,1200,Accounts receivable,Sale on credit,2261.77,0.00,EUR
+J0103,2026-04-10,4000,Sales,Sale on credit,0.00,2261.77,EUR
+J0104,2026-04-10,1000,Bank,Customer payment received,4628.73,0.00,EUR
+J0104,2026-04-10,1200,Accounts receivable,Customer payment received,0.00,4628.73,EUR
+J0105,2026-04-12,5000,Purchases,Purchase of goods on credit,1933.84,0.00,EUR
+J0105,2026-04-12,2000,Accounts payable,Purchase of goods on credit,0.00,1933.84,EUR
+J0106,2026-04-12,5000,Purchases,Purchase of goods on credit,1052.52,0.00,EUR
+J0106,2026-04-12,2000,Accounts payable,Purchase of goods on credit,0.00,1052.52,EUR
+J0107,2026-04-14,1200,Accounts receivable,Sale on credit,1224.44,0.00,EUR
+J0107,2026-04-14,4000,Sales,Sale on credit,0.00,1224.44,EUR
+J0108,2026-04-15,1000,Bank,Customer payment received,718.62,0.00,EUR
+J0108,2026-04-15,1200,Accounts receivable,Customer payment received,0.00,718.62,EUR
+J0109,2026-04-15,5000,Purchases,Purchase of goods on credit,674.01,0.00,EUR
+J0109,2026-04-15,2000,Accounts payable,Purchase of goods on credit,0.00,674.01,EUR
+J0110,2026-04-16,5000,Purchases,Purchase of goods on credit,3428.53,0.00,EUR
+J0110,2026-04-16,2000,Accounts payable,Purchase of goods on credit,0.00,3428.53,EUR
+J0111,2026-04-16,1000,Bank,Customer payment received,2539.54,0.00,EUR
+J0111,2026-04-16,1200,Accounts receivable,Customer payment received,0.00,2539.54,EUR
+J0112,2026-04-17,2000,Accounts payable,Supplier payment,2273.07,0.00,EUR
+J0112,2026-04-17,1000,Bank,Supplier payment,0.00,2273.07,EUR
+J0113,2026-04-17,1000,Bank,Customer payment received,2062.71,0.00,EUR
+J0113,2026-04-17,1200,Accounts receivable,Customer payment received,0.00,2062.71,EUR
+J0114,2026-04-20,1000,Bank,Customer payment received,2510.19,0.00,EUR
+J0114,2026-04-20,1200,Accounts receivable,Customer payment received,0.00,2510.19,EUR
+J0115,2026-04-21,5000,Purchases,Purchase of goods on credit,1484.67,0.00,EUR
+J0115,2026-04-21,2000,Accounts payable,Purchase of goods on credit,0.00,1484.67,EUR
+J0116,2026-04-23,1200,Accounts receivable,Sale on credit,3208.40,0.00,EUR
+J0116,2026-04-23,4000,Sales,Sale on credit,0.00,3208.40,EUR
+J0117,2026-04-24,1200,Accounts receivable,Sale on credit,1901.11,0.00,EUR
+J0117,2026-04-24,4000,Sales,Sale on credit,0.00,1901.11,EUR
+J0118,2026-04-24,1200,Accounts receivable,Sale on credit,1860.29,0.00,EUR
+J0118,2026-04-24,4000,Sales,Sale on credit,0.00,1860.29,EUR
+J0119,2026-04-24,2000,Accounts payable,Supplier payment,2214.14,0.00,EUR
+J0119,2026-04-24,1000,Bank,Supplier payment,0.00,2214.14,EUR
+J0120,2026-04-25,2000,Accounts payable,Supplier payment,1594.79,0.00,EUR
+J0120,2026-04-25,1000,Bank,Supplier payment,0.00,1594.79,EUR
+J0121,2026-04-26,1000,Bank,Customer payment received,1518.38,0.00,EUR
+J0121,2026-04-26,1200,Accounts receivable,Customer payment received,0.00,1518.38,EUR
+J0122,2026-04-26,1200,Accounts receivable,Sale on credit,3923.01,0.00,EUR
+J0122,2026-04-26,4000,Sales,Sale on credit,0.00,3923.01,EUR
+J0123,2026-04-27,2000,Accounts payable,Supplier payment,3461.72,0.00,EUR
+J0123,2026-04-27,1000,Bank,Supplier payment,0.00,3461.72,EUR
+J0124,2026-04-29,6200,Salaries,Salaries,9399.95,0.00,EUR
+J0124,2026-04-29,1000,Bank,Salaries,0.00,9399.95,EUR
+J0125,2026-05-04,5000,Purchases,Purchase of goods on credit,1177.09,0.00,EUR
+J0125,2026-05-04,2000,Accounts payable,Purchase of goods on credit,0.00,1177.09,EUR
+J0126,2026-05-04,1000,Bank,Customer payment received,2094.10,0.00,EUR
+J0126,2026-05-04,1200,Accounts receivable,Customer payment received,0.00,2094.10,EUR
+J0127,2026-05-06,2000,Accounts payable,Supplier payment,2848.99,0.00,EUR
+J0127,2026-05-06,1000,Bank,Supplier payment,0.00,2848.99,EUR
+J0128,2026-05-07,1000,Bank,Customer payment received,2720.74,0.00,EUR
+J0128,2026-05-07,1200,Accounts receivable,Customer payment received,0.00,2720.74,EUR
+J0129,2026-05-08,1200,Accounts receivable,Sale on credit,931.58,0.00,EUR
+J0129,2026-05-08,4000,Sales,Sale on credit,0.00,931.58,EUR
+J0130,2026-05-08,5000,Purchases,Purchase of goods on credit,415.77,0.00,EUR
+J0130,2026-05-08,2000,Accounts payable,Purchase of goods on credit,0.00,415.77,EUR
+J0131,2026-05-09,1000,Bank,Customer payment received,4532.85,0.00,EUR
+J0131,2026-05-09,1200,Accounts receivable,Customer payment received,0.00,4532.85,EUR
+J0132,2026-05-11,1000,Bank,Customer payment received,4739.47,0.00,EUR
+J0132,2026-05-11,1200,Accounts receivable,Customer payment received,0.00,4739.47,EUR
+J0133,2026-05-11,1000,Bank,Customer payment received,3680.57,0.00,EUR
+J0133,2026-05-11,1200,Accounts receivable,Customer payment received,0.00,3680.57,EUR
+J0134,2026-05-11,1200,Accounts receivable,Sale on credit,1567.54,0.00,EUR
+J0134,2026-05-11,4000,Sales,Sale on credit,0.00,1567.54,EUR
+J0135,2026-05-13,5000,Purchases,Purchase of goods on credit,3152.12,0.00,EUR
+J0135,2026-05-13,2000,Accounts payable,Purchase of goods on credit,0.00,3152.12,EUR
+J0136,2026-05-15,2000,Accounts payable,Supplier payment,645.64,0.00,EUR
+J0136,2026-05-15,1000,Bank,Supplier payment,0.00,645.64,EUR
+J0137,2026-05-16,1200,Accounts receivable,Sale on credit,3832.64,0.00,EUR
+J0137,2026-05-16,4000,Sales,Sale on credit,0.00,3832.64,EUR
+J0138,2026-05-17,1200,Accounts receivable,Sale on credit,935.58,0.00,EUR
+J0138,2026-05-17,4000,Sales,Sale on credit,0.00,935.58,EUR
+J0139,2026-05-17,6100,Rent,Office rent,2400.00,0.00,EUR
+J0139,2026-05-17,1000,Bank,Office rent,0.00,2400.00,EUR
+J0140,2026-05-18,2000,Accounts payable,Supplier payment,2334.81,0.00,EUR
+J0140,2026-05-18,1000,Bank,Supplier payment,0.00,2334.81,EUR
+J0141,2026-05-19,1200,Accounts receivable,Sale on credit,3264.05,0.00,EUR
+J0141,2026-05-19,4000,Sales,Sale on credit,0.00,3264.05,EUR
+J0142,2026-05-19,1000,Bank,Customer payment received,399.18,0.00,EUR
+J0142,2026-05-19,1200,Accounts receivable,Customer payment received,0.00,399.18,EUR
+J0143,2026-05-21,1200,Accounts receivable,Sale on credit,2713.78,0.00,EUR
+J0143,2026-05-21,4000,Sales,Sale on credit,0.00,2713.78,EUR
+J0144,2026-05-22,1000,Bank,Customer payment received,3851.73,0.00,EUR
+J0144,2026-05-22,1200,Accounts receivable,Customer payment received,0.00,3851.73,EUR
+J0145,2026-05-23,1200,Accounts receivable,Sale on credit,995.27,0.00,EUR
+J0145,2026-05-23,4000,Sales,Sale on credit,0.00,995.27,EUR
+J0146,2026-05-24,1200,Accounts receivable,Sale on credit,3127.00,0.00,EUR
+J0146,2026-05-24,4000,Sales,Sale on credit,0.00,3127.00,EUR
+J0147,2026-05-25,2000,Accounts payable,Supplier payment,1852.76,0.00,EUR
+J0147,2026-05-25,1000,Bank,Supplier payment,0.00,1852.76,EUR
+J0148,2026-05-25,5000,Purchases,Purchase of goods on credit,1989.22,0.00,EUR
+J0148,2026-05-25,2000,Accounts payable,Purchase of goods on credit,0.00,1989.22,EUR
+J0149,2026-05-26,5000,Purchases,Purchase of goods on credit,2612.16,0.00,EUR
+J0149,2026-05-26,2000,Accounts payable,Purchase of goods on credit,0.00,2612.16,EUR
+J0150,2026-05-26,1000,Bank,Customer payment received,4412.22,0.00,EUR
+J0150,2026-05-26,1200,Accounts receivable,Customer payment received,0.00,4412.22,EUR
+J0151,2026-05-27,1200,Accounts receivable,Sale on credit,2944.53,0.00,EUR
+J0151,2026-05-27,4000,Sales,Sale on credit,0.00,2944.53,EUR
+J0152,2026-05-30,1200,Accounts receivable,Sale on credit,1784.52,0.00,EUR
+J0152,2026-05-30,4000,Sales,Sale on credit,0.00,1784.52,EUR
+J0153,2026-05-30,1200,Accounts receivable,Sale on credit,1711.31,0.00,EUR
+J0153,2026-05-30,4000,Sales,Sale on credit,0.00,1711.31,EUR
+J0154,2026-05-30,1000,Bank,Customer payment received,1137.89,0.00,EUR
+J0154,2026-05-30,1200,Accounts receivable,Customer payment received,0.00,1137.89,EUR
+J0155,2026-05-30,1200,Accounts receivable,Sale on credit,3763.89,0.00,EUR
+J0155,2026-05-30,4000,Sales,Sale on credit,0.00,3763.89,EUR
+J0156,2026-05-31,5000,Purchases,Purchase of goods on credit,2778.70,0.00,EUR
+J0156,2026-05-31,2000,Accounts payable,Purchase of goods on credit,0.00,2778.70,EUR
+J0157,2026-06-02,1200,Accounts receivable,Sale on credit,433.46,0.00,EUR
+J0157,2026-06-02,4000,Sales,Sale on credit,0.00,433.46,EUR
+J0158,2026-06-04,1200,Accounts receivable,Sale on credit,3917.41,0.00,EUR
+J0158,2026-06-04,4000,Sales,Sale on credit,0.00,3917.41,EUR
+J0159,2026-06-04,6200,Salaries,Salaries,10147.00,0.00,EUR
+J0159,2026-06-04,1000,Bank,Salaries,0.00,10147.00,EUR
+J0160,2026-06-05,6300,Utilities,Electricity and water,274.24,0.00,EUR
+J0160,2026-06-05,1000,Bank,Electricity and water,0.00,274.24,EUR
+J0161,2026-06-07,2000,Accounts payable,Supplier payment,1775.28,0.00,EUR
+J0161,2026-06-07,1000,Bank,Supplier payment,0.00,1775.28,EUR
+J0162,2026-06-07,6200,Salaries,Salaries,10030.26,0.00,EUR
+J0162,2026-06-07,1000,Bank,Salaries,0.00,10030.26,EUR
+J0163,2026-06-07,6300,Utilities,Electricity and water,334.67,0.00,EUR
+J0163,2026-06-07,1000,Bank,Electricity and water,0.00,334.67,EUR
+J0164,2026-06-08,6400,Travel,Travel expenses,89.62,0.00,EUR
+J0164,2026-06-08,1000,Bank,Travel expenses,0.00,89.62,EUR
+J0165,2026-06-08,5000,Purchases,Purchase of goods on credit,2181.18,0.00,EUR
+J0165,2026-06-08,2000,Accounts payable,Purchase of goods on credit,0.00,2181.18,EUR
+J0166,2026-06-09,1000,Bank,Customer payment received,4140.40,0.00,EUR
+J0166,2026-06-09,1200,Accounts receivable,Customer payment received,0.00,4140.40,EUR
+J0167,2026-06-13,6100,Rent,Office rent,2400.00,0.00,EUR
+J0167,2026-06-13,1000,Bank,Office rent,0.00,2400.00,EUR
+J0168,2026-06-14,1000,Bank,Customer payment received,778.50,0.00,EUR
+J0168,2026-06-14,1200,Accounts receivable,Customer payment received,0.00,778.50,EUR
+J0169,2026-06-14,1200,Accounts receivable,Sale on credit,2369.20,0.00,EUR
+J0169,2026-06-14,4000,Sales,Sale on credit,0.00,2369.20,EUR
+J0170,2026-06-14,1200,Accounts receivable,Sale on credit,1713.61,0.00,EUR
+J0170,2026-06-14,4000,Sales,Sale on credit,0.00,1713.61,EUR
+J0171,2026-06-14,1200,Accounts receivable,Sale on credit,4681.81,0.00,EUR
+J0171,2026-06-14,4000,Sales,Sale on credit,0.00,4681.81,EUR
+J0172,2026-06-15,1200,Accounts receivable,Sale on credit,3111.97,0.00,EUR
+J0172,2026-06-15,4000,Sales,Sale on credit,0.00,3111.97,EUR
+J0173,2026-06-16,1200,Accounts receivable,Sale on credit,1200.09,0.00,EUR
+J0173,2026-06-16,4000,Sales,Sale on credit,0.00,1200.09,EUR
+J0174,2026-06-16,2000,Accounts payable,Supplier payment,294.10,0.00,EUR
+J0174,2026-06-16,1000,Bank,Supplier payment,0.00,294.10,EUR
+J0175,2026-06-16,5000,Purchases,Purchase of goods on credit,2197.33,0.00,EUR
+J0175,2026-06-16,2000,Accounts payable,Purchase of goods on credit,0.00,2197.33,EUR
+J0176,2026-06-17,1000,Bank,Customer payment received,1707.85,0.00,EUR
+J0176,2026-06-17,1200,Accounts receivable,Customer payment received,0.00,1707.85,EUR
+J0177,2026-06-21,1200,Accounts receivable,Sale on credit,4775.36,0.00,EUR
+J0177,2026-06-21,4000,Sales,Sale on credit,0.00,4775.36,EUR
+J0178,2026-06-22,5000,Purchases,Purchase of goods on credit,402.73,0.00,EUR
+J0178,2026-06-22,2000,Accounts payable,Purchase of goods on credit,0.00,402.73,EUR
+J0179,2026-06-23,1200,Accounts receivable,Sale on credit,4292.06,0.00,EUR
+J0179,2026-06-23,4000,Sales,Sale on credit,0.00,4292.06,EUR
+J0180,2026-06-26,1000,Bank,Customer payment received,2297.36,0.00,EUR
+J0180,2026-06-26,1200,Accounts receivable,Customer payment received,0.00,2297.36,EUR
+J0181,2026-06-26,2000,Accounts payable,,1592.19,0.00,EUR
+J0181,2026-06-26,1000,Bank,,0.00,1592.19,EUR
+J0182,2026-06-27,1000,Bank,Customer payment received,4544.50,0.00,EUR
+J0182,2026-06-27,1200,Accounts receivable,Customer payment received,0.00,4544.50,EUR
+J0183,2026-06-29,1000,Bank,Customer payment received,2007.88,0.00,EUR
+J0183,2026-06-29,1200,Accounts receivable,Customer payment received,0.00,2007.88,EUR
+J0184,2026-07-01,2000,Accounts payable,Supplier payment,3260.60,0.00,EUR
+J0184,2026-07-01,1000,Bank,Supplier payment,0.00,3260.60,EUR
+J0185,2026-07-01,1200,Accounts receivable,Sale on credit,4353.81,0.00,EUR
+J0185,2026-07-01,4000,Sales,Sale on credit,0.00,4353.81,EUR
+J0186,2026-07-02,1200,Accounts receivable,Sale on credit,2215.70,0.00,EUR
+J0186,2026-07-02,4000,Sales,Sale on credit,0.00,2215.70,EUR
+J0187,2026-07-02,6100,Rent,Office rent,2400.00,0.00,EUR
+J0187,2026-07-02,1000,Bank,Office rent,0.00,2400.00,EUR
+J0188,2026-07-02,1200,Accounts receivable,Sale on credit,212.68,0.00,EUR
+J0188,2026-07-02,4000,Sales,Sale on credit,0.00,212.68,EUR
+J0189,2026-07-06,1000,Bank,Customer payment received,3363.48,0.00,EUR
+J0189,2026-07-06,1200,Accounts receivable,Customer payment received,0.00,3363.48,EUR
+J0190,2026-07-07,6200,Salaries,Salaries,9744.99,0.00,EUR
+J0190,2026-07-07,1000,Bank,Salaries,0.00,9744.99,EUR
+J0191,2026-07-08,1200,Accounts receivable,Sale on credit,3060.21,0.00,EUR
+J0191,2026-07-08,4000,Sales,Sale on credit,0.00,3060.21,EUR
+J0192,2026-07-10,2000,Accounts payable,Supplier payment,809.16,0.00,EUR
+J0192,2026-07-10,1000,Bank,Supplier payment,0.00,809.16,EUR
+J0193,2026-07-10,2000,Accounts payable,Supplier payment,3319.79,0.00,EUR
+J0193,2026-07-10,1000,Bank,Supplier payment,0.00,3319.79,EUR
+J0194,2026-07-11,5000,Purchases,Purchase of goods on credit,386.87,0.00,EUR
+J0194,2026-07-11,2000,Accounts payable,Purchase of goods on credit,0.00,386.87,EUR
+J0195,2026-07-12,1000,Bank,Customer payment received,3977.23,0.00,EUR
+J0195,2026-07-12,1200,Accounts receivable,Customer payment received,0.00,3977.23,EUR
+J0196,2026-07-15,5000,Purchases,Purchase of goods on credit,260.84,0.00,EUR
+J0196,2026-07-15,2000,Accounts payable,Purchase of goods on credit,0.00,260.84,EUR
+J0197,2026-07-16,6100,Rent,Office rent,2400.00,0.00,EUR
+J0197,2026-07-16,1000,Bank,Office rent,0.00,2400.00,EUR
+J0198,2026-07-16,1000,Bank,Customer payment received,3516.43,0.00,EUR
+J0198,2026-07-16,1200,Accounts receivable,Customer payment received,0.00,3516.43,EUR
+J0199,2026-07-17,1200,Accounts receivable,Sale on credit,3615.13,0.00,EUR
+J0199,2026-07-17,4000,Sales,Sale on credit,0.00,3615.13,EUR
+J0200,2026-07-18,1200,Accounts receivable,Sale on credit,1497.99,0.00,EUR
+J0200,2026-07-18,4000,Sales,Sale on credit,0.00,1497.99,EUR
+J0201,2026-07-20,1200,Accounts receivable,Sale on credit,4684.39,0.00,EUR
+J0201,2026-07-20,4000,Sales,Sale on credit,0.00,4684.39,EUR
+J0202,2026-07-20,6200,Salaries,Salaries,9001.16,0.00,EUR
+J0202,2026-07-20,1000,Bank,Salaries,0.00,9001.16,EUR
+J0203,2026-07-23,1000,Bank,Customer payment received,822.08,0.00,EUR
+J0203,2026-07-23,1200,Accounts receivable,Customer payment received,0.00,822.08,EUR
+J0204,2026-07-23,5000,Purchases,Purchase of goods on credit,326.65,0.00,EUR
+J0204,2026-07-23,2000,Accounts payable,Purchase of goods on credit,0.00,326.65,EUR
+J0205,2026-07-24,1000,Bank,Customer payment received,4600.27,0.00,EUR
+J0205,2026-07-24,1200,Accounts receivable,Customer payment received,0.00,4600.27,EUR
+J0206,2026-07-25,1000,Bank,Customer payment received,3038.79,0.00,EUR
+J0206,2026-07-25,1200,Accounts receivable,Customer payment received,0.00,3038.79,EUR
+J0207,2026-07-26,5000,Purchases,Purchase of goods on credit,368.33,0.00,EUR
+J0207,2026-07-26,2000,Accounts payable,Purchase of goods on credit,0.00,368.33,EUR
+J0208,2026-07-27,1000,Bank,Customer payment received,3303.70,0.00,EUR
+J0208,2026-07-27,1200,Accounts receivable,Customer payment received,0.00,3303.70,EUR
+J0209,2026-07-28,1200,Accounts receivable,Sale on credit,3082.85,0.00,EUR
+J0209,2026-07-28,4000,Sales,Sale on credit,0.00,3082.85,EUR
+J0210,2026-07-28,5000,Purchases,Purchase of goods on credit,908.83,0.00,EUR
+J0210,2026-07-28,2000,Accounts payable,Purchase of goods on credit,0.00,908.83,EUR
+J0211,2026-07-29,1200,Accounts receivable,Sale on credit,4316.10,0.00,EUR
+J0211,2026-07-29,4000,Sales,Sale on credit,0.00,4316.10,EUR
+J0212,2026-07-31,1200,Accounts receivable,Sale on credit,2982.85,0.00,EUR
+J0212,2026-07-31,4000,Sales,Sale on credit,0.00,2982.85,EUR
+J0213,2026-07-31,1200,Accounts receivable,Sale on credit,2230.68,0.00,EUR
+J0213,2026-07-31,4000,Sales,Sale on credit,0.00,2230.68,EUR
+J0214,2026-08-04,1000,Bank,Customer payment received,2400.54,0.00,EUR
+J0214,2026-08-04,1200,Accounts receivable,Customer payment received,0.00,2400.54,EUR
+J0215,2026-08-04,1200,Accounts receivable,Sale on credit,2886.56,0.00,EUR
+J0215,2026-08-04,4000,Sales,Sale on credit,0.00,2886.56,EUR
+J0216,2026-08-06,6400,Travel,Travel expenses,221.90,0.00,EUR
+J0216,2026-08-06,1000,Bank,Travel expenses,0.00,221.90,EUR
+J0217,2026-08-09,5000,Purchases,Purchase of goods on credit,2409.77,0.00,EUR
+J0217,2026-08-09,2000,Accounts payable,Purchase of goods on credit,0.00,2409.77,EUR
+J0218,2026-08-09,1200,Accounts receivable,Sale on credit,4459.20,0.00,EUR
+J0218,2026-08-09,4000,Sales,Sale on credit,0.00,4459.20,EUR
+J0219,2026-08-10,5000,Purchases,Purchase of goods on credit,712.58,0.00,EUR
+J0219,2026-08-10,2000,Accounts payable,Purchase of goods on credit,0.00,712.58,EUR
+J0220,2026-08-10,1000,Bank,Customer payment received,311.00,0.00,EUR
+J0220,2026-08-10,1200,Accounts receivable,Customer payment received,0.00,311.00,EUR
+J0221,2026-08-12,1000,Bank,Customer payment received,3511.44,0.00,EUR
+J0221,2026-08-12,1200,Accounts receivable,Customer payment received,0.00,3511.44,EUR
+J0222,2026-08-13,5000,Purchases,Purchase of goods on credit,3355.12,0.00,EUR
+J0222,2026-08-13,2000,Accounts payable,Purchase of goods on credit,0.00,3355.12,EUR
+J0223,2026-02-30,5000,Purchases,Purchase of goods on credit,1653.65,0.00,EUR
+J0223,2026-02-30,2000,Accounts payable,Purchase of goods on credit,0.00,1653.65,EUR
+J0224,2026-08-14,6100,Rent,Office rent,2400.00,0.00,EUR
+J0224,2026-08-14,1000,Bank,Office rent,0.00,2400.00,EUR
+J0225,2026-08-14,1000,Bank,Customer payment received,3196.37,0.00,EUR
+J0225,2026-08-14,1200,Accounts receivable,Customer payment received,0.00,3196.37,EUR
+J0226,2026-08-15,1200,Accounts receivable,Sale on credit,2242.15,0.00,EUR
+J0226,2026-08-15,4000,Sales,Sale on credit,0.00,2242.15,EUR
+J0227,2026-08-15,1000,Bank,Customer payment received,568.53,0.00,EUR
+J0227,2026-08-15,1200,Accounts receivable,Customer payment received,0.00,568.53,EUR
+J0228,2026-08-15,5000,Purchases,Purchase of goods on credit,1457.81,0.00,EUR
+J0228,2026-08-15,2000,Accounts payable,Purchase of goods on credit,0.00,1457.81,EUR
+J0229,2026-08-16,2000,Accounts payable,Supplier payment,2070.96,0.00,EUR
+J0229,2026-08-16,1000,Bank,Supplier payment,0.00,2070.96,EUR
+J0230,2026-08-17,1000,Bank,Customer payment received,1797.93,0.00,EUR
+J0230,2026-08-17,1200,Accounts receivable,Customer payment received,0.00,1797.93,EUR
+J0231,2026-08-17,1200,Accounts receivable,Sale on credit,2262.92,0.00,EUR
+J0231,2026-08-17,4000,Sales,Sale on credit,0.00,2262.92,EUR
+J0232,2026-08-18,1000,Bank,Customer payment received,1639.05,0.00,EUR
+J0232,2026-08-18,1200,Accounts receivable,Customer payment received,0.00,1639.05,EUR
+J0233,2026-08-18,6300,Utilities,Electricity and water,218.10,0.00,EUR
+J0233,2026-08-18,1000,Bank,Electricity and water,0.00,218.10,EUR
+J0234,2026-08-19,1200,Accounts receivable,Sale on credit,4691.54,0.00,EUR
+J0234,2026-08-19,4000,Sales,Sale on credit,0.00,4691.54,EUR
+J0235,2026-08-20,1200,Accounts receivable,Sale on credit,2761.58,0.00,EUR
+J0235,2026-08-20,4000,Sales,Sale on credit,0.00,2761.58,EUR
+J0236,2026-08-22,1000,Bank,Customer payment received,672.24,0.00,EUR
+J0236,2026-08-22,1200,Accounts receivable,Customer payment received,0.00,672.24,EUR
+J0237,2026-08-23,6200,Salaries,Salaries,9091.56,0.00,EUR
+J0237,2026-08-23,1000,Bank,Salaries,0.00,9091.56,EUR
+J0238,2026-08-24,1200,Accounts receivable,Sale on credit,4396.11,0.00,EUR
+J0238,2026-08-24,4000,Sales,Sale on credit,0.00,4396.11,EUR
+J0239,2026-08-25,1000,Bank,Customer payment received,3813.72,0.00,EUR
+J0239,2026-08-25,1200,Accounts receivable,Customer payment received,0.00,3813.72,EUR
+J0240,2026-08-25,2000,Accounts payable,Supplier payment,2678.56,0.00,EUR
+J0240,2026-08-25,1000,Bank,Supplier payment,0.00,2678.56,EUR
+J0241,2026-08-26,1200,Accounts receivable,Sale on credit,2499.79,0.00,EUR
+J0241,2026-08-26,4000,Sales,Sale on credit,0.00,2499.79,EUR
+J0242,2026-08-26,1000,Bank,Customer payment received,870.36,0.00,EUR
+J0242,2026-08-26,1200,Accounts receivable,Customer payment received,0.00,870.36,EUR
+J0243,2026-08-27,1200,Accounts receivable,Sale on credit,2696.72,0.00,EUR
+J0243,2026-08-27,4000,Sales,Sale on credit,0.00,2696.72,EUR
+J0244,2026-08-29,1000,Bank,Customer payment received,1083.67,0.00,EUR
+J0244,2026-08-29,1200,Accounts receivable,Customer payment received,0.00,1083.67,EUR
+J0245,2026-08-31,1200,Accounts receivable,Sale on credit,1789.53,0.00,EUR
+J0245,2026-08-31,4000,Sales,Sale on credit,0.00,1789.53,EUR
+J0246,2026-08-31,6400,Travel,Travel expenses,106.87,0.00,EUR
+J0246,2026-08-31,1000,Bank,Travel expenses,0.00,106.87,EUR
+J0247,2026-09-01,1000,Bank,Customer payment received,927.85,0.00,EUR
+J0247,2026-09-01,1200,Accounts receivable,Customer payment received,0.00,927.85,EUR
+J0248,2026-09-03,5000,Purchases,Purchase of goods on credit,2554.05,0.00,EUR
+J0248,2026-09-03,2000,Accounts payable,Purchase of goods on credit,0.00,2554.05,EUR
+J0249,2026-09-03,5000,Purchases,Purchase of goods on credit,1841.20,0.00,EUR
+J0249,2026-09-03,2000,Accounts payable,Purchase of goods on credit,0.00,1841.20,EUR
+J0250,2026-09-03,1200,Accounts receivable,Sale on credit,3132.31,0.00,EUR
+J0250,2026-09-03,4000,Sales,Sale on credit,0.00,3132.31,EUR
+J0251,2026-09-03,1200,Accounts receivable,Sale on credit,3199.08,0.00,EUR
+J0251,2026-09-03,4000,Sales,Sale on credit,0.00,3199.08,EUR
+J0252,2026-09-04,1200,Accounts receivable,Sale on credit,1643.20,0.00,EUR
+J0252,2026-09-04,4000,Sales,Sale on credit,0.00,1643.20,EUR
+J0253,2026-09-04,1000,Bank,Customer payment received,2751.30,0.00,EUR
+J0253,2026-09-04,1200,Accounts receivable,Customer payment received,0.00,2751.30,EUR
+J0254,2026-09-05,5000,Purchases,Purchase of goods on credit,2920.78,0.00,EUR
+J0254,2026-09-05,2000,Accounts payable,Purchase of goods on credit,0.00,2920.78,EUR
+J0255,2026-09-06,5000,Purchases,Purchase of goods on credit,2783.03,0.00,EUR
+J0255,2026-09-06,2000,Accounts payable,Purchase of goods on credit,0.00,2783.03,EUR
+J0256,2026-09-06,1200,Accounts receivable,Sale on credit,4484.26,0.00,EUR
+J0256,2026-09-06,4000,Sales,Sale on credit,0.00,4484.26,EUR
+J0257,2026-09-08,5000,Purchases,Purchase of goods on credit,3090.31,0.00,EUR
+J0257,2026-09-08,2000,Accounts payable,Purchase of goods on credit,0.00,3090.31,EUR
+J0258,2026-09-08,6300,Utilities,Electricity and water,329.39,0.00,EUR
+J0258,2026-09-08,1000,Bank,Electricity and water,0.00,329.39,EUR
+J0259,2026-09-10,5000,Purchases,Purchase of goods on credit,1083.38,0.00,EUR
+J0259,2026-09-10,2000,Accounts payable,Purchase of goods on credit,0.00,1083.38,EUR
+J0260,2026-09-10,5000,Purchases,Purchase of goods on credit,1381.19,0.00,EUR
+J0260,2026-09-10,2000,Accounts payable,Purchase of goods on credit,0.00,1381.19,EUR
+J0261,2026-09-10,6300,Utilities,Electricity and water,359.45,0.00,EUR
+J0261,2026-09-10,1000,Bank,Electricity and water,0.00,359.45,EUR
+J0262,2026-09-11,5000,Purchases,Purchase of goods on credit,1773.49,0.00,EUR
+J0262,2026-09-11,2000,Accounts payable,Purchase of goods on credit,0.00,1773.49,EUR
+J0263,2026-09-12,1200,Accounts receivable,Sale on credit,2411.99,0.00,EUR
+J0263,2026-09-12,4000,Sales,Sale on credit,0.00,2411.99,EUR
+J0264,2026-09-12,1200,Accounts receivable,Sale on credit,2114.96,0.00,EUR
+J0264,2026-09-12,4000,Sales,Sale on credit,0.00,2114.96,EUR
+J0265,2026-09-12,1200,Accounts receivable,Sale on credit,1480.69,0.00,EUR
+J0265,2026-09-12,4000,Sales,Sale on credit,0.00,1480.69,EUR
+J0266,2026-09-18,5000,Purchases,Purchase of goods on credit,780.24,0.00,EUR
+J0266,2026-09-18,2000,Accounts payable,Purchase of goods on credit,0.00,780.24,EUR
+J0267,2026-09-24,1000,Bank,Customer payment received,1430.04,0.00,EUR
+J0267,2026-09-24,1200,Accounts receivable,Customer payment received,0.00,1430.04,EUR
+J0268,2026-09-25,5000,Purchases,Purchase of goods on credit,964.13,0.00,EUR
+J0268,2026-09-25,2000,Accounts payable,Purchase of goods on credit,0.00,964.13,EUR
+J0269,2026-09-26,1000,Bank,Customer payment received,3023.68,0.00,EUR
+J0269,2026-09-26,1200,Accounts receivable,Customer payment received,0.00,3023.68,EUR
+J0270,2026-09-27,1200,Accounts receivable,Sale on credit,1574.25,0.00,EUR
+J0270,2026-09-27,4000,Sales,Sale on credit,0.00,1574.25,EUR
+J0271,2026-09-30,5000,Purchases,Purchase of goods on credit,3283.77,0.00,EUR
+J0271,2026-09-30,2000,Accounts payable,Purchase of goods on credit,0.00,3283.77,EUR
+J0272,2026-10-01,1200,Accounts receivable,Sale on credit,2917.81,0.00,EUR
+J0272,2026-10-01,4000,Sales,Sale on credit,0.00,2917.81,EUR
+J0273,2026-10-05,6300,Utilities,Electricity and water,259.41,0.00,EUR
+J0273,2026-10-05,1000,Bank,Electricity and water,0.00,259.41,EUR
+J0274,2026-10-06,1000,Bank,Customer payment received,3393.26,0.00,EUR
+J0274,2026-10-06,1200,Accounts receivable,Customer payment received,0.00,3393.26,EUR
+J0275,2026-10-06,5000,Purchases,Purchase of goods on credit,2440.67,0.00,EUR
+J0275,2026-10-06,2000,Accounts payable,Purchase of goods on credit,0.00,2440.67,EUR
+J0276,2026-10-06,2000,Accounts payable,Supplier payment,1010.13,0.00,EUR
+J0276,2026-10-06,1000,Bank,Supplier payment,0.00,1010.13,EUR
+J0277,2026-10-06,1000,Bank,Customer payment received,3975.69,0.00,EUR
+J0277,2026-10-06,1200,Accounts receivable,Customer payment received,0.00,3975.69,EUR
+J0278,2026-10-07,6100,Rent,Office rent,2400.00,0.00,EUR
+J0278,2026-10-07,1000,Bank,Office rent,0.00,2400.00,EUR
+J0279,2026-10-07,5000,Purchases,Purchase of goods on credit,1457.36,0.00,EUR
+J0279,2026-10-07,2000,Accounts payable,Purchase of goods on credit,0.00,1457.36,EUR
+J0280,2026-10-08,5000,Purchases,Purchase of goods on credit,465.75,0.00,EUR
+J0280,2026-10-08,2000,Accounts payable,Purchase of goods on credit,0.00,465.75,EUR
+J0281,2026-10-11,2000,Accounts payable,Supplier payment,2506.89,0.00,EUR
+J0281,2026-10-11,1000,Bank,Supplier payment,0.00,2506.89,EUR
+J0282,2026-10-11,5000,Purchases,Purchase of goods on credit,1970.06,0.00,EUR
+J0282,2026-10-11,2000,Accounts payable,Purchase of goods on credit,0.00,1970.06,EUR
+J0283,2026-10-11,1200,Accounts receivable,Sale on credit,2162.21,0.00,EUR
+J0283,2026-10-11,4000,Sales,Sale on credit,0.00,2162.21,EUR
+J0284,2026-10-14,1200,Accounts receivable,Sale on credit,2998.71,0.00,EUR
+J0284,2026-10-14,4000,Sales,Sale on credit,0.00,2998.71,EUR
+J0285,2026-10-14,6400,Travel,Travel expenses,283.27,0.00,EUR
+J0285,2026-10-14,1000,Bank,Travel expenses,0.00,283.27,EUR
+J0286,2026-10-15,1200,Accounts receivable,Sale on credit,2027.67,0.00,EUR
+J0286,2026-10-15,4000,Sales,Sale on credit,0.00,2027.67,EUR
+J0287,2026-10-16,2000,Accounts payable,Supplier payment,1196.21,0.00,EUR
+J0287,2026-10-16,1000,Bank,Supplier payment,0.00,1196.21,EUR
+J0288,2026-10-17,5000,Purchases,Purchase of goods on credit,1242.94,0.00,EUR
+J0288,2026-10-17,2000,Accounts payable,Purchase of goods on credit,0.00,1242.94,EUR
+J0289,2026-10-18,1200,Accounts receivable,Sale on credit,3649.16,0.00,EUR
+J0289,2026-10-18,4000,Sales,Sale on credit,0.00,3649.16,EUR
+J0290,2026-10-19,6100,Rent,Office rent,2400.00,0.00,EUR
+J0290,2026-10-19,1000,Bank,Office rent,0.00,2400.00,EUR
+J0291,2026-10-21,1200,Accounts receivable,Sale on credit,817.07,0.00,EUR
+J0291,2026-10-21,4000,Sales,Sale on credit,0.00,817.07,EUR
+J0292,2026-10-23,1000,Bank,Customer payment received,3513.71,0.00,EUR
+J0292,2026-10-23,1200,Accounts receivable,Customer payment received,0.00,3513.71,EUR
+J0293,2026-10-25,2000,Accounts payable,Supplier payment,849.85,0.00,EUR
+J0293,2026-10-25,1000,Bank,Supplier payment,0.00,849.85,EUR
+J0294,2026-10-26,1200,Accounts receivable,Sale on credit,3154.27,0.00,EUR
+J0294,2026-10-26,4000,Sales,Sale on credit,0.00,3154.27,EUR
+J0295,2026-10-29,1000,Bank,Customer payment received,2616.09,0.00,EUR
+J0295,2026-10-29,1200,Accounts receivable,Customer payment received,0.00,2616.09,EUR
+J0296,2026-10-30,1200,Accounts receivable,Sale on credit,1904.07,0.00,EUR
+J0296,2026-10-30,4000,Sales,Sale on credit,0.00,1904.07,EUR
+J0297,2026-10-30,6400,Travel,Travel expenses,277.95,0.00,EUR
+J0297,2026-10-30,1000,Bank,Travel expenses,0.00,277.95,EUR
+J0298,2026-11-02,5000,Purchases,Purchase of goods on credit,3357.47,0.00,EUR
+J0298,2026-11-02,2000,Accounts payable,Purchase of goods on credit,0.00,3357.47,EUR
+J0299,2026-11-04,6100,Rent,Office rent,2400.00,0.00,EUR
+J0299,2026-11-04,1000,Bank,Office rent,0.00,2400.00,EUR
+J0300,2026-11-05,6400,Travel,Travel expenses,322.76,0.00,EUR
+J0300,2026-11-05,1000,Bank,Travel expenses,0.00,322.76,EUR
+J0301,2026-11-06,2000,Accounts payable,,2720.11,0.00,EUR
+J0301,2026-11-06,1000,Bank,,0.00,2720.11,EUR
+J0302,2026-11-07,1200,Accounts receivable,Sale on credit,1269.66,0.00,EUR
+J0302,2026-11-07,4000,Sales,Sale on credit,0.00,1269.66,EUR
+J0303,2026-11-09,2000,Accounts payable,Supplier payment,1389.76,0.00,EUR
+J0303,2026-11-09,1000,Bank,Supplier payment,0.00,1389.76,EUR
+J0304,2026-11-09,1000,Bank,Customer payment received,1697.04,0.00,EUR
+J0304,2026-11-09,1200,Accounts receivable,Customer payment received,0.00,1697.04,EUR
+J0305,2026-11-10,5000,Purchases,Purchase of goods on credit,2657.48,0.00,EUR
+J0305,2026-11-10,2000,Accounts payable,Purchase of goods on credit,0.00,2657.48,EUR
+J0306,2026-11-10,1200,Accounts receivable,Sale on credit,469.37,0.00,EUR
+J0306,2026-11-10,4000,Sales,Sale on credit,0.00,469.37,EUR
+J0307,2026-11-12,1200,Accounts receivable,Sale on credit,1935.70,0.00,EUR
+J0307,2026-11-12,4000,Sales,Sale on credit,0.00,1935.70,EUR
+J0308,2026-11-12,1000,Bank,Customer payment received,2121.98,0.00,EUR
+J0308,2026-11-12,1200,Accounts receivable,Customer payment received,0.00,2121.98,EUR
+J0309,2026-11-14,5000,Purchases,Purchase of goods on credit,1940.29,0.00,EUR
+J0309,2026-11-14,2000,Accounts payable,Purchase of goods on credit,0.00,1940.29,EUR
+J0310,2026-11-16,5000,Purchases,Purchase of goods on credit,1236.02,0.00,EUR
+J0310,2026-11-16,2000,Accounts payable,Purchase of goods on credit,0.00,1236.02,EUR
+J0311,2026-11-18,5000,Purchases,Purchase of goods on credit,1749.96,0.00,EUR
+J0311,2026-11-18,2000,Accounts payable,Purchase of goods on credit,0.00,1749.96,EUR
+J0312,2026-11-18,6200,Salaries,Salaries,10485.10,0.00,EUR
+J0312,2026-11-18,1000,Bank,Salaries,0.00,10485.10,EUR
+J0313,2026-11-19,6200,Salaries,Salaries,10559.51,0.00,EUR
+J0313,2026-11-19,1000,Bank,Salaries,0.00,10559.51,EUR
+J0314,2026-11-19,1200,Accounts receivable,Sale on credit,2378.59,0.00,EUR
+J0314,2026-11-19,4000,Sales,Sale on credit,0.00,2378.59,EUR
+J0315,2026-11-20,2000,Accounts payable,Supplier payment,1883.41,0.00,EUR
+J0315,2026-11-20,1000,Bank,Supplier payment,0.00,1883.41,EUR
+J0316,2026-11-22,5000,Purchases,Purchase of goods on credit,1803.79,0.00,EUR
+J0316,2026-11-22,2000,Accounts payable,Purchase of goods on credit,0.00,1803.79,EUR
+J0317,2026-11-22,1000,Bank,Customer payment received,1690.00,0.00,EUR
+J0317,2026-11-22,1200,Accounts receivable,Customer payment received,0.00,1690.00,EUR
+J0318,2026-11-22,1200,Accounts receivable,Sale on credit,2164.62,0.00,EUR
+J0318,2026-11-22,4000,Sales,Sale on credit,0.00,2164.62,EUR
+J0319,2026-11-23,6100,Rent,Office rent,2400.00,0.00,EUR
+J0319,2026-11-23,1000,Bank,Office rent,0.00,2400.00,EUR
+J0320,2026-11-23,1200,Accounts receivable,Sale on credit,2358.09,0.00,EUR
+J0320,2026-11-23,4000,Sales,Sale on credit,0.00,2358.09,EUR
+J0321,2026-11-23,1200,Accounts receivable,Sale on credit,1552.43,0.00,EUR
+J0321,2026-11-23,4000,Sales,Sale on credit,0.00,1552.43,EUR
+J0322,2026-11-24,2000,Accounts payable,Supplier payment,2519.79,0.00,EUR
+J0322,2026-11-24,1000,Bank,Supplier payment,0.00,2519.79,EUR
+J0323,2026-11-24,5000,Purchases,Purchase of goods on credit,1226.77,0.00,EUR
+J0323,2026-11-24,2000,Accounts payable,Purchase of goods on credit,0.00,1226.77,EUR
+J0324,2026-11-27,1200,Accounts receivable,Sale on credit,4333.68,0.00,EUR
+J0324,2026-11-27,4000,Sales,Sale on credit,0.00,4333.68,EUR
+J0325,2026-11-29,5000,Purchases,Purchase of goods on credit,1446.69,0.00,EUR
+J0325,2026-11-29,2000,Accounts payable,Purchase of goods on credit,0.00,1446.69,EUR
+J0326,2026-11-29,6100,Rent,Office rent,2400.00,0.00,EUR
+J0326,2026-11-29,1000,Bank,Office rent,0.00,2400.00,EUR
+J0327,2026-11-30,5000,Purchases,Purchase of goods on credit,917.23,0.00,EUR
+J0327,2026-11-30,2000,Accounts payable,Purchase of goods on credit,0.00,917.23,EUR
+J0328,2026-11-30,1200,Accounts receivable,Sale on credit,3815.75,0.00,EUR
+J0328,2026-11-30,4000,Sales,Sale on credit,0.00,3815.75,EUR
+J0329,2026-11-30,6200,Salaries,Salaries,10645.37,0.00,EUR
+J0329,2026-11-30,1000,Bank,Salaries,0.00,10645.37,EUR
+J0330,2026-11-30,6300,Utilities,Electricity and water,339.69,0.00,EUR
+J0330,2026-11-30,1000,Bank,Electricity and water,0.00,339.69,EUR
+J0331,2026-12-01,1200,Accounts receivable,Sale on credit,3564.34,0.00,EUR
+J0331,2026-12-01,4000,Sales,Sale on credit,0.00,3564.34,EUR
+J0332,2026-12-01,2000,Accounts payable,Supplier payment,710.24,0.00,EUR
+J0332,2026-12-01,1000,Bank,Supplier payment,0.00,710.24,EUR
+J0333,2026-12-02,1000,Bank,Customer payment received,2204.25,0.00,EUR
+J0333,2026-12-02,1200,Accounts receivable,Customer payment received,0.00,2204.25,EUR
+J0334,2026-12-02,5000,Purchases,Purchase of goods on credit,1391.73,0.00,EUR
+J0334,2026-12-02,2000,Accounts payable,Purchase of goods on credit,0.00,1391.73,EUR
+J0335,2026-12-03,5000,Purchases,Purchase of goods on credit,1737.23,0.00,EUR
+J0335,2026-12-03,2000,Accounts payable,Purchase of goods on credit,0.00,1737.23,EUR
+J0336,2026-12-03,6100,Rent,Office rent,2400.00,0.00,EUR
+J0336,2026-12-03,1000,Bank,Office rent,0.00,2400.00,EUR
+J0337,2026-12-05,5000,Purchases,Purchase of goods on credit,1282.23,0.00,EUR
+J0337,2026-12-05,2000,Accounts payable,Purchase of goods on credit,0.00,1282.23,EUR
+J0338,2026-12-07,1200,Accounts receivable,Sale on credit,4722.45,0.00,EUR
+J0338,2026-12-07,4000,Sales,Sale on credit,0.00,4722.45,EUR
+J0339,2026-12-07,1200,Accounts receivable,Sale on credit,366.81,0.00,EUR
+J0339,2026-12-07,4000,Sales,Sale on credit,0.00,366.81,EUR
+J0340,2026-12-08,2000,Accounts payable,Supplier payment,1447.48,0.00,EUR
+J0340,2026-12-08,1000,Bank,Supplier payment,0.00,1447.48,EUR
+J0341,2026-12-10,1000,Bank,Customer payment received,2835.33,0.00,EUR
+J0341,2026-12-10,1200,Accounts receivable,Customer payment received,0.00,2835.33,EUR
+J0342,2026-12-12,5000,Purchases,Purchase of goods on credit,2979.58,0.00,EUR
+J0342,2026-12-12,2000,Accounts payable,Purchase of goods on credit,0.00,2979.58,EUR
+J0343,2026-12-14,1200,Accounts receivable,Sale on credit,3964.72,0.00,EUR
+J0343,2026-12-14,4000,Sales,Sale on credit,0.00,3964.72,EUR
+J0344,2026-12-17,1200,Accounts receivable,Sale on credit,1630.36,0.00,EUR
+J0344,2026-12-17,4000,Sales,Sale on credit,0.00,1630.36,EUR
+J0345,2026-12-17,2000,Accounts payable,Supplier payment,459.65,0.00,EUR
+J0345,2026-12-17,1000,Bank,Supplier payment,0.00,459.65,EUR
+J0346,2026-12-17,1200,Accounts receivable,Sale on credit,841.28,0.00,EUR
+J0346,2026-12-17,4000,Sales,Sale on credit,0.00,841.28,EUR
+J0347,2026-12-19,1000,Bank,Customer payment received,2348.18,0.00,EUR
+J0347,2026-12-19,1200,Accounts receivable,Customer payment received,0.00,2348.18,EUR
+J0348,2026-12-20,6400,Travel,Travel expenses,123.53,0.00,EUR
+J0348,2026-12-20,1000,Bank,Travel expenses,0.00,123.53,EUR
+J0349,2026-12-20,1200,Accounts receivable,Sale on credit,3236.27,0.00,EUR
+J0349,2026-12-20,4000,Sales,Sale on credit,0.00,3236.27,EUR
+J0350,2026-12-22,5000,Purchases,Purchase of goods on credit,866.39,0.00,EUR
+J0350,2026-12-22,2000,Accounts payable,Purchase of goods on credit,0.00,866.39,EUR
+J0351,2026-12-23,5000,Purchases,Purchase of goods on credit,2201.13,0.00,EUR
+J0351,2026-12-23,2000,Accounts payable,Purchase of goods on credit,0.00,2201.13,EUR
+J0352,2026-12-23,6400,Travel,Travel expenses,825.73,0.00,EUR
+J0352,2026-12-23,1000,Bank,Travel expenses,0.00,825.73,EUR
+J0353,2026-12-24,2000,Accounts payable,Supplier payment,2229.10,0.00,EUR
+J0353,2026-12-24,1000,Bank,Supplier payment,0.00,2229.10,EUR
+J0354,2026-12-25,1000,Bank,Customer payment received,4099.65,0.00,EUR
+J0354,2026-12-25,1200,Accounts receivable,Customer payment received,0.00,4099.65,EUR
+J0355,2026-12-26,2000,Accounts payable,Supplier payment,1210.50,0.00,EUR
+J0355,2026-12-26,1000,Bank,Supplier payment,0.00,1210.50,EUR
+J0356,2026-12-26,1000,Bank,Customer payment received,510.54,0.00,EUR
+J0356,2026-12-26,1200,Accounts receivable,Customer payment received,0.00,510.54,EUR
+J0357,2026-12-27,1200,Accounts receivable,Sale on credit,2579.26,0.00,EUR
+J0357,2026-12-27,4000,Sales,Sale on credit,0.00,2579.26,EUR
+J0358,2026-12-27,1200,Accounts receivable,Sale on credit,535.74,0.00,EUR
+J0358,2026-12-27,4000,Sales,Sale on credit,0.00,535.74,EUR
+J0359,2026-12-29,6200,Salaries,Salaries,9932.56,0.00,EUR
+J0359,2026-12-29,1000,Bank,Salaries,0.00,9932.56,EUR
+J0360,2026-12-29,1000,Bank,Customer payment received,2167.65,0.00,EUR
+J0360,2026-12-29,1200,Accounts receivable,Customer payment received,0.00,2167.65,EUR
+J0361,2026-12-31,1200,Accounts receivable,Sale on credit,2289.38,0.00,EUR
+J0361,2026-12-31,4000,Sales,Sale on credit,0.00,2289.38,EUR

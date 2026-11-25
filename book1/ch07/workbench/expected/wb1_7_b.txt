@@ -1,0 +1,13 @@
+WB1.7-b  Spectrum of a motor
+  fs = 1000 Hz, N = 1000 samples, frequency resolution fs/N = 1 Hz, noise SD 0.2
+  planted  25.0 Hz amplitude 1.00  ->  peak at bin 25 =  25.0 Hz, amplitude 0.997
+  planted  50.0 Hz amplitude 0.30  ->  peak at bin 50 =  50.0 Hz, amplitude 0.300
+  median amplitude of all other bins (noise floor): 0.0101
+  peaks within one bin of the planted frequencies: yes
+Leakage: shaft at 25.5 Hz, between bins 25 and 26
+  bin 23 (  23 Hz): amplitude 0.138
+  bin 24 (  24 Hz): amplitude 0.222
+  bin 25 (  25 Hz): amplitude 0.634
+  bin 26 (  26 Hz): amplitude 0.626
+  bin 27 (  27 Hz): amplitude 0.199
+  bin 28 (  28 Hz): amplitude 0.135

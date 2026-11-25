@@ -1,0 +1,8 @@
+BPE learned from 3,873 words of ticket text (125 distinct); 300 merges
+  first five merges: e+_, o+r, s+_, e+r, t+_
+  The password reset email never arrives
+    6 words -> 6 tokens: the_ | password_ | reset_ | email_ | never_ | arrives_
+  My parcel arrived damaged
+    4 words -> 4 tokens: my_ | parcel_ | arrived_ | damaged_
+  The refund was declined by my bank
+    7 words -> 16 tokens: the_ | refund_ | was_ | d | e | c | l | in | ed_ | b | y_ | my_ | b | an | k | _

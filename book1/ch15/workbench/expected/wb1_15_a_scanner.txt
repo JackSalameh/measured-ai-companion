@@ -1,0 +1,21 @@
+WB1.15-a  sensitive-data scanner: 4 items found
+  EMAIL marta.kowalski@example.org
+  IBAN  DE00 1234 5678 9012 3456 78
+  PHONE +44 20 7946 0123
+  CARD  4242 4242 4242 4242
+redacted text:
+  Ticket 4471, from [EMAIL]
+  Hello, my name is Marta Kowalski; I was charged twice for order 88213.
+  Please refund to IBAN [IBAN]
+  or call me on [PHONE].
+  The card I used was [CARD], expiring 12/34.
+  I live at 14 Linden Street, Westford. My colleague Tom
+  (tom dot reyes at example dot org) had the same problem;
+  his number is oh-seven-seven, nine-one-two, three-four-five-six.
+answer key: 4 of 10 sensitive items caught; missed:
+  Marta Kowalski
+  12/34
+  14 Linden Street, Westford
+  Tom
+  tom dot reyes at example dot org
+  oh-seven-seven, nine-one-two, three-four-five-six

@@ -1,0 +1,5 @@
+provider,model_id,as_of,input_per_m,cached_input_per_m,output_per_m,min_cacheable_tokens,source
+OpenAI,gpt-6.2-sol,2026-11-22,2.00,0.10,10.00,1024,developers.openai.com/api/docs/models/gpt-6.2-sol; minimum: developers.openai.com/api/docs/guides/prompt-caching (read 2026-11-23)
+Anthropic,claude-sonnet-5-5,2026-11-22,2.00,0.10,10.00,512,platform.claude.com/docs/en/about-claude/pricing; minimum: platform.claude.com/docs/en/build-with-claude/prompt-caching (read 2026-11-23)
+Google,gemini-3.5-flash,2026-11-22,1.50,0.15,9.00,4096,ai.google.dev/gemini-api/docs/pricing (cached price read 2026-11-23); minimum: ai.google.dev/gemini-api/docs/caching
+Mistral AI,mistral-small-2603,2026-11-22,0.15,0.015,0.60,,docs.mistral.ai/models/pricing; no minimum published on docs.mistral.ai prompt-caching page (read 2026-11-23)

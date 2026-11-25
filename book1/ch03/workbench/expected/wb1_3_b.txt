@@ -1,0 +1,7 @@
+WB1.3-b  Split and leakage trap
+Part 1: 1-nearest-neighbor ticket router, 80/20 split
+  random split            : 124/124 = 1.000   (64 of 124 test tickets have an identical text in training)
+  split by distinct text  : 80/98 = 0.816   (no test text appears in training)
+Part 2: straight-line fit to a drifting process, 150 training and 50 test points
+  random split            : test MSE = 2.703   (fitted slope 1.496)
+  time-ordered split      : test MSE = 11.044   (fitted slope 1.336)

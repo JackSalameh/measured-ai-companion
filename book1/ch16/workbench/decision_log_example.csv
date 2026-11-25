@@ -1,0 +1,6 @@
+id,date,decision,options,evidence,owner,review_by,status,supersedes
+D-001,2026-03-02,Classify helpdesk tickets with a hosted model through the adapter,hosted model; local model; rules only,ch09 cost estimate; panel run 2026-02-27 (commit 3f2a91c),Reader,2026-09-01,superseded,
+D-002,2026-03-10,Use prompt version 2 for triage,prompt v1; prompt v2,WB1.10-b McNemar run; S-014,Reader,2026-09-10,accepted,
+D-003,2026-04-02,Send tickets to the model only after redaction,redact; do not send personal data,WB1.15-a run; policy section 2,,2026-10-02,accepted,
+D-004,2026-04-15,Switch triage to a local model,hosted model,,Reader,2026-03-01,accepted,D-001
+D-005,2026-04-31,Reconcile extracted invoices before booking,reconcile; book directly,WB1.14-b run,Reader,2026-10-31,maybe,D-009

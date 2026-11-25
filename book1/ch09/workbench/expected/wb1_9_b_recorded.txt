@@ -1,0 +1,8 @@
+WB1.9-b  recorded run: claude-opus-5-5, 23 Nov 2026
+         (agent session, not the API; see note in the file)
+backend   model               task              in  out     s  check
+claude    claude-opus-5-5     T1-extract         -    -     -  pass
+claude    claude-opus-5-5     T2-classify        -    -     -  pass
+claude    claude-opus-5-5     T3-arithmetic      -    -     -  pass
+claude    claude-opus-5-5     T4-translate       -    -     -  human
+claude    claude-opus-5-5     T5-summarize       -    -     -  human

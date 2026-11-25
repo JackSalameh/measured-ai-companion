@@ -1,0 +1,5 @@
+WB1.13-b  test first: 8 tests for parse_amount
+  candidate A: 6 of 8 tests pass
+    FAIL test_brackets_negative    ValueError
+    FAIL test_currency_code        ValueError
+  candidate B: 8 of 8 tests pass

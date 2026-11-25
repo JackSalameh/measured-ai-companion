@@ -1,0 +1,17 @@
+(a) blur, 6 x 6 (rounded):
+     206  181  180  157  154  179
+     206  181  159  128  126  171
+     255  237  206  174  187  218
+     239  208  177  184  216  247
+     217  186  176  213  244  255
+     217  204  204  242  255  255
+    edge strength, 6 x 6:
+     225   10    0  410  285  690
+     665  675  675  695  545  850
+       0  330  540  170  390  540
+     290  540  210  350  540  150
+     535  310  310  540  190    0
+     485  375  600  230    0    0
+(b) fine stripes 0.4 cycles/pixel, amplitude 50.0
+    halved directly: false stripes at 0.2 cycles/new pixel, amplitude 50.0
+    smoothed then halved: amplitude at 0.2 cycles/new pixel 0.46 ; slow wave kept at 47.6

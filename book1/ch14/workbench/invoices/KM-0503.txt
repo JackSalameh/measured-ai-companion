@@ -1,0 +1,11 @@
+Kestrel Metals GmbH
+Hafenstrasse 12, Nordhaven
+
+Invoice # KM-0503    Issued 26/02/2026
+Customer: Alder and Finch Trading
+
+Subtotal        1,378.04
+Tax (20%)       275.61
+Amount due EUR  1,653.65
+
+Thank you for your business.

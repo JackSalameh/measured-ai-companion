@@ -1,0 +1,10 @@
+id,text,fact,value
+S1,Sales for the year totalled EUR 274142.09.,sales.year,274142.09
+S2,Sales grew in every quarter.,sales.grew.every.quarter,yes
+S3,The third quarter was the strongest.,sales.best.quarter,q3
+S4,Purchases came to EUR 123069.67.,purchases.year,123069.67
+S5,The largest single sale was EUR 4793.37.,sale.largest,4793.37
+S6,Rent for the year was EUR 45600.00.,rent.year,45600.00
+S7,Travel spending fell by 40% in the second half,travel.change.pct,-40
+S8,because a new travel policy started in July (auditor's report of 3 August).,,
+S9,The ledger has no data-quality problems.,issues.count,0

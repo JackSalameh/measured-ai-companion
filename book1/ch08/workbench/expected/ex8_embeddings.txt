@@ -1,0 +1,10 @@
+Neighbor-count vectors for 128 words of the ticket texts
+  cos(january, february) = 0.99
+  cos(canada, japan) = 1.00
+  cos(invoice, order) = 0.64
+  cos(password, parcel) = 0.00
+  cos(parcel, package) = 0.00
+  nearest to invoice: order 0.64, new 0.36, error 0.36
+  nearest to january: may 0.99, february 0.99, march 0.92
+  'invoice' neighbors: L:for 26, R:<n> 26, L:last 25, R:is 25
+  'order' neighbors:   R:<n> 180, L:for 74, L:to 33, L:refund 26

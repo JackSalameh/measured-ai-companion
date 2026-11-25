@@ -1,0 +1,3 @@
+Which department should handle this support ticket?
+
+{ticket}

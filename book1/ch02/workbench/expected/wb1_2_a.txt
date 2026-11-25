@@ -1,0 +1,4 @@
+WB1.2-a  Timeline builder
+17 milestones from 1943 to 2017, every row has a source ID
+longest gap between listed milestones: 14 years (1998 to 2012)
+wrote timeline.svg

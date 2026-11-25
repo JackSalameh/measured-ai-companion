@@ -1,0 +1,14 @@
+WB1.14-b  reconciliation with the ledger, January and February 2026
+true invoice values: 14 invoices, 14 ledger purchases, 11 matched
+  OT-9021   2,175.37  J0035 has 2,157.37: 18.00 = 9 x 2.00, swapped
+  KM-0490     742.50  no booking found
+  KM-0503   1,653.65  same amount as J0223, ledger date not real
+  J0036       189.21  booked 2026-02-02, no invoice
+model values: 14 invoices, 14 ledger purchases, 9 matched
+  KM-0461     930.44  no booking found
+  KM-0447   3,129.85  same amount as J0006, booked 2026-01-03
+  OT-9021   2,175.37  J0035 has 2,157.37: 18.00 = 9 x 2.00, swapped
+  KM-0490     742.50  no booking found
+  KM-0503   1,653.65  same amount as J0223, ledger date not real
+  J0023     1,116.53  booked 2026-01-24, no invoice
+  J0036       189.21  booked 2026-02-02, no invoice

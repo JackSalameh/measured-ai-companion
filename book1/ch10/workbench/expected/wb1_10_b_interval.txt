@@ -1,0 +1,21 @@
+WB1.10-b  interval of doubt (95%)
+1. Two prompts on 10 cases
+   8/10   Wilson [0.490, 0.943]   Wald [0.552, 1.048]
+   7/10   Wilson [0.397, 0.892]   Wald [0.416, 0.984]
+   10/10  Wilson [0.722, 1.000]   Wald [1.000, 1.000]
+   8 vs 7 on 10 cases each: difference 0.100, SE 0.192
+2. Two stand-in programs on the same 98 P1 test tickets
+   rules-v2 91/98 = 0.929   Wilson [0.860, 0.965]
+   1-NN     80/98 = 0.816   Wilson [0.728, 0.881]
+   discordant: only rules-v2 18, only 1-NN 7; difference 0.112
+   SE unpaired 0.0470   SE paired 0.0497
+   McNemar exact p = 0.0433
+   the 25 discordant tickets have 3 wordings;
+   18 read 'please change the billing address on my account'
+3. Near-copies: the 98 tickets have 18 wordings
+   rules-v2 SE as if independent 0.0260, by wording 0.0518
+   1-NN     SE as if independent 0.0391, by wording 0.1560
+4. Cases needed for a 95% interval of +/- h
+   p = 0.90, h = 0.05: n = 139
+   p = 0.90, h = 0.03: n = 385
+   p = 0.50, h = 0.05: n = 385

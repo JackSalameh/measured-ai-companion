@@ -1,0 +1,14 @@
+WB1.5-a  Gradient-descent explorer
+Part 1: y = w x, exact minimum w* = 2.0036, loss 0.0219
+  learning rates above 0.0909 make the steps grow instead of shrink
+  rate 0.005  after  1 step w =    0.2204   after 20 steps w =       1.8088   loss         0.4393
+  rate 0.04   after  1 step w =    1.7632   after 20 steps w =       2.0036   loss         0.0219
+  rate 0.095  after  1 step w =    4.1876   after 20 steps w =      -9.2256   loss      1387.0664
+Part 2: gradient formula against a numerical slope (h = 0.0001)
+  w = 0.0: formula   -44.0800   numerical   -44.0800
+  w = 1.0: formula   -22.0800   numerical   -22.0800
+  w = 2.0: formula    -0.0800   numerical    -0.0800
+Part 3: y = w x + b, rate 0.04, 2,000 steps from (0, 0)
+  gradient descent: w = 1.9900  b = 0.0500  loss 0.0214
+  exact          : w = 1.9900  b = 0.0500  loss 0.0214
+  agree to 4 decimals: yes

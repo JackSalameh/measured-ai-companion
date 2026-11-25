@@ -1,0 +1,5 @@
+WB1.11-b  consistency probe, stand-in answerer (not a model), k = 10, seed 1102
+question                                       top answer  agreement  correct
+In which quarter were sales highest?                   q3       1.00  yes
+How many ledger entries lack a description?             3       0.40  yes
+Did sales grow in every quarter?                      yes       0.90  NO
