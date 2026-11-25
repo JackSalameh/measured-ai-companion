@@ -1,0 +1,10 @@
+WB1.1-a  Rules or learning?
+version  rules   on the 40 used to write    on 10 held out
+v1           6             21/40 = 0.525      6/10 = 0.600
+v2          26             40/40 = 1.000      6/10 = 0.600
+
+v2 on the held-out tickets (wrong answers only):
+  true=billing  rule said=other    | Money was taken from my card twice
+  true=login    rule said=other    | I am unable to access my profile with my credentials
+  true=other    rule said=billing  | Do you give discounts to non-profits?
+  true=login    rule said=other    | I never got the code to confirm my identity
