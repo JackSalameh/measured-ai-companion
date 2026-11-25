@@ -1,0 +1,9 @@
+WB1.1-b  A model is a function
+data: 20 points, seed 2026, true a=2.5, b=1.0, noise sd=0.8
+before training (a=0, b=0): MSE = 219.8578
+closed form      : a = 2.5584, b = 0.6824, MSE = 0.7226
+gradient descent : a = 2.5584, b = 0.6824, MSE = 0.7226
+the two methods agree to 1e-9: True
+inference with the fixed parameters:
+  f( 3.0) = 8.3575   [inside the training range]
+  f(12.0) = 31.3828   [outside the training range (extrapolation)]
